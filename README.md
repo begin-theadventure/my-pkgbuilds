@@ -14,3 +14,7 @@ My PKGBUILDs for the Arch User Repository (AUR):
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
 
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
+
+Adopted:
+
+[riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
