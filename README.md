@@ -3,6 +3,8 @@ My PKGBUILDs for the Arch User Repository (AUR):
 
 [alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
 
+[albumartcreator](https://github.com/0neGal/albumArtCreator)-bin: https://aur.archlinux.org/packages/albumartcreator-bin
+
 [alfae](https://github.com/suchmememanyskill/Alfae)-bin: https://aur.archlinux.org/packages/alfae-bin
 
 [flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
