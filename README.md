@@ -13,14 +13,18 @@ My PKGBUILDs for the Arch User Repository (AUR):
 
 [harmonyvpktool](https://github.com/harmonytf/HarmonyVPKTool)-bin: https://aur.archlinux.org/packages/harmonyvpktool-bin
 
+[mdlshit](https://github.com/headassbtw/mdlshit)-bin: https://aur.archlinux.org/packages/mdlshit-bin
+
 [papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
 
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
+
+[wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom)-bin: https://aur.archlinux.org/packages/wine-ge-custom-bin
 
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 
 Adopted:
 
-ghc-raspbian-bin: https://aur.archlinux.org/packages/ghc-raspbian-bin
+[ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
 [riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
