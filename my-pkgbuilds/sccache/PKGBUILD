@@ -1,0 +1,28 @@
+# Maintainer: begin-theadventure <begin-thecontact.ncncb at dralias dot com>
+
+pkgname=sccache
+pkgver=0.4.1
+pkgrel=1
+pkgdesc="Shared compilation cache"
+arch=('any')
+url="https://github.com/mozilla/sccache"
+license=('Apache')
+depends=('gcc-libs' 'glibc' 'zstd' 'lib32-zstd' 'openssl' 'zlib')
+optdepends=('memcached: Memcached support' 'redis': Redis support)
+makedepends=('cargo')
+provides=('sccache')
+conflicts=('sccache')
+source=("$url/archive/refs/tags/v$pkgver.tar.gz")
+sha256sums=('b77fb9b9cf67591cb443bc6191c7917e335f8050a3ec477e27104b1e6c99be2b')
+
+build() {
+  cd $pkgname-$pkgver
+  cargo build --release --all-features
+}
+
+package() {
+  cd $pkgname-$pkgver
+  install -Dm644 LICENSE -t "$pkgdir"/usr/share/licenses/sccache
+  install -Dm755 target/release/$pkgname -t "$pkgdir"/usr/bin
+  install -Dm755 target/release/$pkgname-dist -t "$pkgdir"/usr/bin
+}
