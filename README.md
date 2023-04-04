@@ -19,8 +19,6 @@ My PKGBUILDs for the Arch User Repository (AUR):
 
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
 
-[wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom)-bin: https://aur.archlinux.org/packages/wine-ge-custom-bin
-
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 
 Adopted:
