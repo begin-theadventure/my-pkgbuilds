@@ -7,6 +7,8 @@ My PKGBUILDs for the Arch User Repository (AUR):
 
 [alfae](https://github.com/suchmememanyskill/Alfae)-bin: https://aur.archlinux.org/packages/alfae-bin
 
+[crossover-overlay](https://github.com/lacymorrow/crossover)-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
+
 [flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
 
 [flightcore](https://github.com/R2NorthstarTools/FlightCore)-bin: https://aur.archlinux.org/packages/flightcore-bin
