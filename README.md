@@ -1,9 +1,9 @@
 ## my-pkgbuilds
 My PKGBUILDs for the Arch User Repository (AUR):
 
-[alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
-
 [albumartcreator](https://github.com/0neGal/albumArtCreator)-bin: https://aur.archlinux.org/packages/albumartcreator-bin
+
+[alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
 
 [alfae](https://github.com/suchmememanyskill/Alfae)-bin: https://aur.archlinux.org/packages/alfae-bin
 
@@ -12,6 +12,8 @@ My PKGBUILDs for the Arch User Repository (AUR):
 [flightcore](https://github.com/R2NorthstarTools/FlightCore)-bin: https://aur.archlinux.org/packages/flightcore-bin
 
 [harmonyvpktool](https://github.com/harmonytf/HarmonyVPKTool)-bin: https://aur.archlinux.org/packages/harmonyvpktool-bin
+
+[mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
 
 [mdlshit](https://github.com/headassbtw/mdlshit)-bin: https://aur.archlinux.org/packages/mdlshit-bin
 
