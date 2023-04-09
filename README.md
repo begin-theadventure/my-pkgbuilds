@@ -1,5 +1,5 @@
 ## my-pkgbuilds
-My PKGBUILDs for the Arch User Repository (AUR):
+My PKGBUILDs for the Arch User Repository (AUR). Packages: 15.
 
 [albumartcreator](https://github.com/0neGal/albumArtCreator)-bin: https://aur.archlinux.org/packages/albumartcreator-bin
 
