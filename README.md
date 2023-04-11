@@ -19,6 +19,8 @@ My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinu
 
 [flightcore](https://github.com/R2NorthstarTools/FlightCore)-bin: https://aur.archlinux.org/packages/flightcore-bin
 
+[flemozi](https://github.com/KRTirtho/flemozi)-bin: https://aur.archlinux.org/packages/flemozi-bin
+
 [harmonyvpktool](https://github.com/harmonytf/HarmonyVPKTool)-bin: https://aur.archlinux.org/packages/harmonyvpktool-bin
 
 [mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
