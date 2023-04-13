@@ -1,5 +1,5 @@
 ## my-pkgbuilds
-My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m): 18.
+My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m): 19.
 
 [albumartcreator](https://github.com/0neGal/albumArtCreator)-bin: https://aur.archlinux.org/packages/albumartcreator-bin
 
@@ -30,6 +30,8 @@ My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinu
 [papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
 
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
+
+[linux-intel-undervolt-gui](https://github.com/lukechadwick/linux-intel-undervolt-gui)-bin: https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
 
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 
