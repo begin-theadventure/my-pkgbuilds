@@ -1,5 +1,5 @@
 ## my-pkgbuilds
-My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m): 20.
+My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m): 21.
 
 [albumartcreator](https://github.com/0neGal/albumArtCreator)-bin: https://aur.archlinux.org/packages/albumartcreator-bin
 
@@ -12,6 +12,8 @@ My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinu
 [converternow](https://github.com/ferraridamiano/ConverterNOW)-bin: https://aur.archlinux.org/packages/converternow-bin
 
 [crossover-overlay](https://github.com/lacymorrow/crossover)-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
+
+[chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
 
 [monitorctl](https://github.com/5iddy/monitorctl)-bin: https://aur.archlinux.org/packages/monitorctl-bin
 
