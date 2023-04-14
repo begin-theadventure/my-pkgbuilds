@@ -1,9 +1,23 @@
-## my-pkgbuilds
-My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m): 21.
+# my-pkgbuilds
+My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-[albumartcreator](https://github.com/0neGal/albumArtCreator)-bin: https://aur.archlinux.org/packages/albumartcreator-bin
-
+#### Standard packages
 [alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
+
+[chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
+
+[flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
+
+[mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
+
+[papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
+
+[telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
+
+[viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
+
+#### Bin packages
+[albumartcreator](https://github.com/0neGal/albumArtCreator)-bin: https://aur.archlinux.org/packages/albumartcreator-bin
 
 [alfae](https://github.com/suchmememanyskill/Alfae)-bin: https://aur.archlinux.org/packages/alfae-bin
 
@@ -13,34 +27,27 @@ My PKGBUILDs for the Arch User Repository (AUR). [Packages](https://aur.archlinu
 
 [crossover-overlay](https://github.com/lacymorrow/crossover)-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
 
-[chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
-
-[monitorctl](https://github.com/5iddy/monitorctl)-bin: https://aur.archlinux.org/packages/monitorctl-bin
-
-[flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
-
 [flightcore](https://github.com/R2NorthstarTools/FlightCore)-bin: https://aur.archlinux.org/packages/flightcore-bin
 
 [flemozi](https://github.com/KRTirtho/flemozi)-bin: https://aur.archlinux.org/packages/flemozi-bin
 
 [harmonyvpktool](https://github.com/harmonytf/HarmonyVPKTool)-bin: https://aur.archlinux.org/packages/harmonyvpktool-bin
 
-[mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
+[linux-intel-undervolt-gui](https://github.com/lukechadwick/linux-intel-undervolt-gui)-bin: https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
 
 [mdlshit](https://github.com/headassbtw/mdlshit)-bin: https://aur.archlinux.org/packages/mdlshit-bin
 
-[papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
+[monitorctl](https://github.com/5iddy/monitorctl)-bin: https://aur.archlinux.org/packages/monitorctl-bin
 
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
 
-[linux-intel-undervolt-gui](https://github.com/lukechadwick/linux-intel-undervolt-gui)-bin: https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
 
-[telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
+## Adopted:
 
-[viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
-
-Adopted:
-
+#### Standard packages
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
 [riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
+
+#### Git packages
+[curtail-git](https://github.com/Huluti/Curtail): https://aur.archlinux.org/packages/curtail-git
