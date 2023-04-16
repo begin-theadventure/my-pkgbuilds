@@ -41,6 +41,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
 
+#### Git packages
+[telegraph](https://github.com/fkinoshita/Telegraph)-git: https://aur.archlinux.org/packages/telegraph-git
 
 ## Adopted:
 
