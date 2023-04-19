@@ -23,6 +23,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top)-bin: https://aur.archlinux.org/packages/amdgpu_top-bin
 
+[calyxos-flasher](https://gitlab.com/CalyxOS/device-flasher)-bin: https://aur.archlinux.org/packages/calyxos-flasher-bin
+
 [converternow](https://github.com/ferraridamiano/ConverterNOW)-bin: https://aur.archlinux.org/packages/converternow-bin
 
 [crossover-overlay](https://github.com/lacymorrow/crossover)-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
