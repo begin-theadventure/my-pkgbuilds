@@ -43,6 +43,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
 
+[rymfony](https://github.com/Orbitale/Rymfony)-bin: https://aur.archlinux.org/packages/rymfony-bin
+
 [xdman8](https://github.com/subhra74/xdm-experimental-binaries)-bin: https://aur.archlinux.org/packages/xdman8-bin
 
 #### Git packages
