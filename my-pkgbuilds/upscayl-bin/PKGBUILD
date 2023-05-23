@@ -1,0 +1,23 @@
+# Maintainer: begin-theadventure <begin-thecontact.ncncb at dralias dot com>
+
+_pkgname=upscayl
+pkgname=$_pkgname-bin
+pkgver=2.5.1
+pkgrel=1
+pkgdesc="Free and Open Source AI Image Upscaler (binary release)"
+url="https://github.com/upscayl/upscayl"
+license=('AGPL3')
+arch=('x86_64')
+provides=($_pkgname)
+conflicts=($_pkgname)
+source=("$url/releases/download/v$pkgver/upscayl-$pkgver-linux.rpm")
+sha256sums=('b729f78d657adba518ada650b426dc3ac65544f017c320f35cf166be29a30e65')
+
+package() {
+  mkdir -p ${pkgdir}/opt
+  mkdir -p ${pkgdir}/usr/bin
+  cp -a opt/Upscayl $pkgdir/opt/Upscayl
+  ln -fs /opt/Upscayl/$_pkgname ${pkgdir}/usr/bin/$_pkgname
+  install -Dm644 usr/share/icons/hicolor/0x0/apps/$_pkgname.png "$pkgdir/usr/share/pixmaps/$_pkgname.png"
+  install -Dm644 usr/share/applications/$_pkgname.desktop "$pkgdir/usr/share/applications/$_pkgname.desktop"
+}
