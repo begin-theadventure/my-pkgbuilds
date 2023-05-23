@@ -29,7 +29,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [crossover-overlay](https://github.com/lacymorrow/crossover)-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
 
-[flightcore](https://github.com/R2NorthstarTools/FlightCore)-bin: https://aur.archlinux.org/packages/flightcore-bin
+[flightcore](https://github.com/R2NorthstarTools/FlightCore)-bin: https://aur.archlinux.org/packages/flightcore-bin (AppImage)
 
 [flemozi](https://github.com/KRTirtho/flemozi)-bin: https://aur.archlinux.org/packages/flemozi-bin
 
