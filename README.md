@@ -58,6 +58,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 #### Standard packages
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
+[notesnook](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook
+
 [riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
 
 #### Git packages
