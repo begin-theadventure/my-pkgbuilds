@@ -5,17 +5,18 @@ pkgname=$_pkgname-bin
 pkgdesc="Open source zero knowledge private note taking (binary release)"
 pkgver=2.4.11
 pkgrel=1
-arch=('x86_64')
+arch=('x86_64' 'arm64')
 url="https://github.com/streetwriters/notesnook"
 license=('GPL')
 makedepends=('fuse2')
 conflicts=($_pkgname)
 provides=($_pkgname)
-depends=('glibc' 'hicolor-icon-theme' 'zlib')
+depends=('hicolor-icon-theme')
 _appimage="${_pkgname}_${pkgver}_${pkgrel}_linux_x86_64.AppImage"
-source=("$_appimage::$url/releases/download/v$pkgver/${_pkgname}_linux_x86_64.AppImage")
-sha256sums=('b6e241b6f12ea47ce3bebc988e47e0188b0b358ce191db4932acfe765ffe1f15')
-
+source=("$_appimage::$url/releases/download/v$pkgver/${_pkgname}_linux_x86_64.AppImage"
+        "$_appimage::$url/releases/download/v$pkgver/${_pkgname}_linux_arm64.AppImage")
+sha256sums=('b6e241b6f12ea47ce3bebc988e47e0188b0b358ce191db4932acfe765ffe1f15'
+            '419775251c4b5af4239f793ed64d11b9bfda0e1327ae3d9c6d9294f57ff8bb74')
 _fix_permissions() (
   target=$1
 
