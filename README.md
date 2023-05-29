@@ -60,6 +60,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [notesnook](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook
 
+[python-undervolt](https://github.com/georgewhewell/undervolt): https://aur.archlinux.org/packages/python-undervolt
+
 [riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
 
 #### Git packages
