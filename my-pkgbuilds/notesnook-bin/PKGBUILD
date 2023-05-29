@@ -17,6 +17,7 @@ source_x86_64=("$_appimage::$url/releases/download/v$pkgver/${_pkgname}_linux_x8
 source_arm64=("$_appimage::$url/releases/download/v$pkgver/${_pkgname}_linux_arm64.AppImage")
 sha256sums_x86_64=('2e93cf8031e0b8189986002911f2d0f8959975c2e2388403814307ebc9567321')
 sha256sums_arm64=('419775251c4b5af4239f793ed64d11b9bfda0e1327ae3d9c6d9294f57ff8bb74')
+
 _fix_permissions() (
   target=$1
 
