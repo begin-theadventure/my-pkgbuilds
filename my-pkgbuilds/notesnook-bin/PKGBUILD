@@ -2,16 +2,16 @@
 
 _pkgname=notesnook
 pkgname=$_pkgname-bin
-pkgdesc="Open source zero knowledge private note taking (binary release)"
+pkgdesc="A fully open source & end-to-end encrypted note taking alternative to Evernote (binary release)"
 pkgver=2.5.0
 pkgrel=1
 arch=('x86_64' 'arm64')
 url="https://github.com/streetwriters/notesnook"
 license=('GPL3')
+depends=('libappindicator-gtk3' 'libindicator-gtk3' 'libnotify' 'libxss' 'libxtst')
 makedepends=('fuse2')
 conflicts=($_pkgname)
 provides=($_pkgname)
-depends=('hicolor-icon-theme')
 _appimage="${_pkgname}_${pkgver}_${pkgrel}_linux_x86_64.AppImage"
 source_x86_64=("$_appimage::$url/releases/download/v$pkgver/${_pkgname}_linux_x86_64.AppImage")
 source_arm64=("$_appimage::$url/releases/download/v$pkgver/${_pkgname}_linux_arm64.AppImage")
