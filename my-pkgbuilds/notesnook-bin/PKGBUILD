@@ -4,10 +4,11 @@ _pkgname=notesnook
 pkgname=$_pkgname-bin
 pkgdesc="A fully open source & end-to-end encrypted note taking alternative to Evernote (binary release)"
 pkgver=2.5.0
-pkgrel=2
+pkgrel=3
 arch=('x86_64' 'arm64')
 url="https://github.com/streetwriters/notesnook"
 license=('GPL3')
+depends=('libappindicator-gtk3' 'libnotify' 'libxss' 'libxtst')
 makedepends=('fuse2')
 conflicts=($_pkgname)
 provides=($_pkgname)
@@ -50,17 +51,14 @@ prepare() {
 
 package() {
   # Create folders
-  mkdir -p $pkgdir/opt
-  mkdir -p $pkgdir/usr/bin
-  mkdir -p $pkgdir/usr/share/applications
-  mkdir -p $pkgdir/usr/share/icons/hicolor
+  mkdir -p "$pkgdir/opt/$_pkgname" "$pkgdir/usr/bin" "$pkgdir/usr/share"
   # Install
-  mv squashfs-root/usr/share/icons/hicolor "$pkgdir/usr/share/icons"
-  cp -r squashfs-root "$pkgdir/opt/$_pkgname"
-  ln -s /opt/$_pkgname/$_pkgname $pkgdir/usr/bin/$_pkgname
-  ln -s /opt/$_pkgname/$_pkgname.desktop "$pkgdir/usr/share/applications/$_pkgname.desktop"
-  ln -fs /usr/share/icons/hicolor/1024x1024/apps/$_pkgname.png "$pkgdir/opt/$_pkgname/.DirIcon"
-  ln -fs /usr/share/icons/hicolor/1024x1024/apps/$_pkgname.png "$pkgdir/opt/$_pkgname"
+  cd squashfs-root
+  mv usr/share/icons "$pkgdir/usr/share"
+  install -Dm644 $_pkgname.desktop "$pkgdir/usr/share/applications/$_pkgname.desktop"
+  ln -s /opt/$_pkgname/$_pkgname "$pkgdir/usr/bin/$_pkgname"
+  rm -dr usr & rm notesnook.png .DirIcon notesnook.desktop
+  cp -r * "$pkgdir/opt/$_pkgname"
   # Fix permissions
   find "$pkgdir" | while read -r target; do
     _fix_permissions "$target"
