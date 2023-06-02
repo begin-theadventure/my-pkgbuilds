@@ -71,6 +71,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
 
+[syngestures](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures
+
 #### Bin packages
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
