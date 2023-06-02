@@ -55,7 +55,7 @@ package() {
   # Install
   cd squashfs-root
   mv usr/share/icons "$pkgdir/usr/share"
-  install -Dm644 $_pkgname.desktop "$pkgdir/usr/share/applications/$_pkgname.desktop"
+  install -Dm644 $_pkgname.desktop -t "$pkgdir/usr/share/applications"
   ln -s /opt/$_pkgname/$_pkgname "$pkgdir/usr/bin/$_pkgname"
   rm -dr usr & rm ${_pkgname}.png .DirIcon ${_pkgname}.desktop
   cp -r * "$pkgdir/opt/$_pkgname"
