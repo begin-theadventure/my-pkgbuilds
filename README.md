@@ -56,9 +56,16 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 ## Adopted:
 
 #### Standard packages
+
+[extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
+
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
 [notesnook](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook
+
+[python-pyvisa](https://github.com/pyvisa/pyvisa): https://aur.archlinux.org/packages/python-pyvisa
+
+[python-pyvisa-py](https://github.com/pyvisa/pyvisa-py): https://aur.archlinux.org/packages/python-pyvisa-py
 
 [python-undervolt](https://github.com/georgewhewell/undervolt): https://aur.archlinux.org/packages/python-undervolt
 
