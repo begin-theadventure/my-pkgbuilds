@@ -14,6 +14,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
+[upscayl-bin-rpm](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-bin-rpm
+
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 
 #### Bin packages
@@ -75,6 +77,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 #### Bin packages
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
+
+[hotspot-appimage](https://aur.archlinux.org/packages/hotspot-appimage): https://aur.archlinux.org/packages/hotspot-appimage
 
 #### Git packages
 [curtail-git](https://github.com/Huluti/Curtail): https://aur.archlinux.org/packages/curtail-git
