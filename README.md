@@ -45,6 +45,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [rymfony](https://github.com/Orbitale/Rymfony)-bin: https://aur.archlinux.org/packages/rymfony-bin
 
+[sigma-file-manager-bin](https://github.com/aleksey-hoffman/sigma-file-manager): https://aur.archlinux.org/packages/sigma-file-manager-bin
+
 [upscayl-bin-rpm](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-bin-rpm
 
 [vpktool-bin](https://github.com/craftablescience/VPKTool): https://aur.archlinux.org/packages/vpktool-bin
