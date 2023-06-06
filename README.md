@@ -14,8 +14,6 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
-[upscayl-bin-rpm](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-bin-rpm
-
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 
 #### Bin packages
@@ -46,6 +44,10 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
 
 [rymfony](https://github.com/Orbitale/Rymfony)-bin: https://aur.archlinux.org/packages/rymfony-bin
+
+[upscayl-bin-rpm](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-bin-rpm
+
+[vpktool-bin](https://github.com/craftablescience/VPKTool): https://aur.archlinux.org/packages/vpktool-bin
 
 [xdman8](https://github.com/subhra74/xdm-experimental-binaries)-bin: https://aur.archlinux.org/packages/xdman8-bin
 
