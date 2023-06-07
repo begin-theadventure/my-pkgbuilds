@@ -33,6 +33,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [flemozi](https://github.com/KRTirtho/flemozi)-bin: https://aur.archlinux.org/packages/flemozi-bin
 
+[hammer-editor-bin](https://github.com/Wavesonics/hammer-editor): https://aur.archlinux.org/packages/hammer-editor-bin
+
 [harmonyvpktool](https://github.com/harmonytf/HarmonyVPKTool)-bin: https://aur.archlinux.org/packages/harmonyvpktool-bin
 
 [linux-intel-undervolt-gui](https://github.com/lukechadwick/linux-intel-undervolt-gui)-bin: https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
