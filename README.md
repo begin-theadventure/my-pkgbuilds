@@ -17,35 +17,35 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 
 #### Bin packages
-[albumartcreator](https://github.com/0neGal/albumArtCreator)-bin: https://aur.archlinux.org/packages/albumartcreator-bin
+[albumartcreator-bin](https://github.com/0neGal/albumArtCreator): https://aur.archlinux.org/packages/albumartcreator-bin
 
-[alfae](https://github.com/suchmememanyskill/Alfae)-bin: https://aur.archlinux.org/packages/alfae-bin
+[alfae-bin](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae-bin
 
-[amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top)-bin: https://aur.archlinux.org/packages/amdgpu_top-bin
+[amdgpu_top-bin](https://github.com/Umio-Yasuno/amdgpu_top): https://aur.archlinux.org/packages/amdgpu_top-bin
 
-[calyxos-flasher](https://gitlab.com/CalyxOS/device-flasher)-bin: https://aur.archlinux.org/packages/calyxos-flasher-bin
+[calyxos-flasher-bin](https://gitlab.com/CalyxOS/device-flasher): https://aur.archlinux.org/packages/calyxos-flasher-bin
 
-[converternow](https://github.com/ferraridamiano/ConverterNOW)-bin: https://aur.archlinux.org/packages/converternow-bin
+[converternow-bin](https://github.com/ferraridamiano/ConverterNOW): https://aur.archlinux.org/packages/converternow-bin
 
-[crossover-overlay](https://github.com/lacymorrow/crossover)-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
+[crossover-overlay-bin](https://github.com/lacymorrow/crossover): https://aur.archlinux.org/packages/crossover-overlay-bin
 
-[flightcore](https://github.com/R2NorthstarTools/FlightCore)-bin: https://aur.archlinux.org/packages/flightcore-bin (AppImage)
+[flightcore-bin](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore-bin
 
-[flemozi](https://github.com/KRTirtho/flemozi)-bin: https://aur.archlinux.org/packages/flemozi-bin
+[flemozi-bin](https://github.com/KRTirtho/flemozi): https://aur.archlinux.org/packages/flemozi-bin
 
 [hammer-editor-bin](https://github.com/Wavesonics/hammer-editor): https://aur.archlinux.org/packages/hammer-editor-bin
 
 [harmonyvpktool](https://github.com/harmonytf/HarmonyVPKTool)-bin: https://aur.archlinux.org/packages/harmonyvpktool-bin
 
-[linux-intel-undervolt-gui](https://github.com/lukechadwick/linux-intel-undervolt-gui)-bin: https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
+[linux-intel-undervolt-gui-bin](https://github.com/lukechadwick/linux-intel-undervolt-gui): https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
 
-[mdlshit](https://github.com/headassbtw/mdlshit)-bin: https://aur.archlinux.org/packages/mdlshit-bin
+[mdlshit-bin](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit-bin
 
-[monitorctl](https://github.com/5iddy/monitorctl)-bin: https://aur.archlinux.org/packages/monitorctl-bin
+[monitorctl-bin](https://github.com/5iddy/monitorctl): https://aur.archlinux.org/packages/monitorctl-bin
 
-[papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
+[papa-bin](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa-bin
 
-[rymfony](https://github.com/Orbitale/Rymfony)-bin: https://aur.archlinux.org/packages/rymfony-bin
+[rymfony-bin](https://github.com/Orbitale/Rymfony): https://aur.archlinux.org/packages/rymfony-bin
 
 [sigma-file-manager-bin](https://github.com/aleksey-hoffman/sigma-file-manager): https://aur.archlinux.org/packages/sigma-file-manager-bin
 
@@ -53,16 +53,14 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [vpktool-bin](https://github.com/craftablescience/VPKTool): https://aur.archlinux.org/packages/vpktool-bin
 
-[xdman8](https://github.com/subhra74/xdm-experimental-binaries)-bin: https://aur.archlinux.org/packages/xdman8-bin
+[xdman8-bin](https://github.com/subhra74/xdm-experimental-binaries): https://aur.archlinux.org/packages/xdman8-bin
 
 #### Git packages
-
 [linuxwave](https://github.com/orhun/linuxwave)-git: https://aur.archlinux.org/packages/linuxwave-git
 
 [telegraph](https://github.com/fkinoshita/Telegraph)-git: https://aur.archlinux.org/packages/telegraph-git
 
 ## Adopted:
-
 #### Standard packages
 
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
@@ -84,7 +82,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 #### Bin packages
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
-[hotspot-appimage](https://aur.archlinux.org/packages/hotspot-appimage): https://aur.archlinux.org/packages/hotspot-appimage
+[hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
 
 #### Git packages
 [curtail-git](https://github.com/Huluti/Curtail): https://aur.archlinux.org/packages/curtail-git
