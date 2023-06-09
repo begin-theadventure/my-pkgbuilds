@@ -12,6 +12,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
 
+[pleaserunthat](https://github.com/Sebicodes99/pleaserunthat-beta): https://aur.archlinux.org/packages/pleaserunthat
+
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
