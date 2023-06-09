@@ -35,7 +35,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [hammer-editor-bin](https://github.com/Wavesonics/hammer-editor): https://aur.archlinux.org/packages/hammer-editor-bin
 
-[harmonyvpktool](https://github.com/harmonytf/HarmonyVPKTool)-bin: https://aur.archlinux.org/packages/harmonyvpktool-bin
+[harmonyvpktool-bin](https://github.com/harmonytf/HarmonyVPKTool): https://aur.archlinux.org/packages/harmonyvpktool-bin
 
 [linux-intel-undervolt-gui-bin](https://github.com/lukechadwick/linux-intel-undervolt-gui): https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
 
@@ -56,9 +56,9 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [xdman8-bin](https://github.com/subhra74/xdm-experimental-binaries): https://aur.archlinux.org/packages/xdman8-bin
 
 #### Git packages
-[linuxwave](https://github.com/orhun/linuxwave)-git: https://aur.archlinux.org/packages/linuxwave-git
+[linuxwave-git](https://github.com/orhun/linuxwave): https://aur.archlinux.org/packages/linuxwave-git
 
-[telegraph](https://github.com/fkinoshita/Telegraph)-git: https://aur.archlinux.org/packages/telegraph-git
+[telegraph-git](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph-git
 
 ## Adopted:
 #### Standard packages
