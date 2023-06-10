@@ -14,6 +14,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [pleaserunthat](https://github.com/Sebicodes99/pleaserunthat-beta): https://aur.archlinux.org/packages/pleaserunthat
 
+[latencyflex-proton-ge-custom](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
+
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
@@ -69,8 +71,6 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
 
-[ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
-
 [notesnook](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook
 
 [python-pyvisa](https://github.com/pyvisa/pyvisa): https://aur.archlinux.org/packages/python-pyvisa
@@ -85,6 +85,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 #### Bin packages
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
+
+[notesnook-bin](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook-bin
 
 [hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
 
