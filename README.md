@@ -53,6 +53,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [rymfony-bin](https://github.com/Orbitale/Rymfony): https://aur.archlinux.org/packages/rymfony-bin
 
+[tacentview-bin](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview-bin
+
 [sigma-file-manager-bin](https://github.com/aleksey-hoffman/sigma-file-manager): https://aur.archlinux.org/packages/sigma-file-manager-bin
 
 [upscayl-bin-rpm](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-bin-rpm
