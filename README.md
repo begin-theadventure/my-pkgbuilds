@@ -47,9 +47,13 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [mdlshit-bin](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit-bin
 
+[mrvn-radiant-bin](https://github.com/MRVN-Radiant/MRVN-Radiant): https://aur.archlinux.org/packages/mrvn-radiant-bin
+
 [monitorctl-bin](https://github.com/5iddy/monitorctl): https://aur.archlinux.org/packages/monitorctl-bin
 
 [papa-bin](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa-bin
+
+[rspnvpk-bin](https://github.com/taskinoz/RSPNVPK): https://aur.archlinux.org/packages/rspnvpk-bin
 
 [rymfony-bin](https://github.com/Orbitale/Rymfony): https://aur.archlinux.org/packages/rymfony-bin
 
