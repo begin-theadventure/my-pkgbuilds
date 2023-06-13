@@ -57,6 +57,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [sigma-file-manager-bin](https://github.com/aleksey-hoffman/sigma-file-manager): https://aur.archlinux.org/packages/sigma-file-manager-bin
 
+[tacentview](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview
+
 [upscayl-bin-rpm](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-bin-rpm
 
 [vpktool-bin](https://github.com/craftablescience/VPKTool): https://aur.archlinux.org/packages/vpktool-bin
