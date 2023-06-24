@@ -6,6 +6,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
 
+[footage](https://gitlab.com/adhami3310/Footage): https://aur.archlinux.org/packages/footage
+
 [flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
 
 [mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
@@ -63,7 +65,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [tacentview](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview
 
-[upscayl-bin-rpm](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-bin-rpm
+[upscayl-rpm-bin](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-rpm-bin
 
 [vpktool-bin](https://github.com/craftablescience/VPKTool): https://aur.archlinux.org/packages/vpktool-bin
 
