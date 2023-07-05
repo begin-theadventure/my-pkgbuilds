@@ -10,6 +10,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
 
+[newelle](https://github.com/qwersyk/Newelle): https://aur.archlinux.org/packages/newelle
+
 [mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
 
 [papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
