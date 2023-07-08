@@ -20,6 +20,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [latencyflex-proton-ge-custom](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
 
+[tacentview](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview
+
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
@@ -64,8 +66,6 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [tacentview-bin](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview-bin
 
 [sigma-file-manager-bin](https://github.com/aleksey-hoffman/sigma-file-manager): https://aur.archlinux.org/packages/sigma-file-manager-bin
-
-[tacentview](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview
 
 [upscayl-rpm-bin](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-rpm-bin
 
