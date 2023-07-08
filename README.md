@@ -83,6 +83,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
 
+[kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
+
 [notesnook](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook
 
 [python-pyvisa](https://github.com/pyvisa/pyvisa): https://aur.archlinux.org/packages/python-pyvisa
@@ -98,9 +100,11 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 #### Bin packages
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
+[hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
+
 [notesnook-bin](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook-bin
 
-[hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
+[listmonk-bin](https://github.com/knadh/listmonk): https://aur.archlinux.org/packages/listmonk-bin
 
 #### Git packages
 [curtail-git](https://github.com/Huluti/Curtail): https://aur.archlinux.org/packages/curtail-git
