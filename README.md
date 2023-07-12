@@ -47,6 +47,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [harmonyvpktool-bin](https://github.com/harmonytf/HarmonyVPKTool): https://aur.archlinux.org/packages/harmonyvpktool-bin
 
+[ossia-score-bin](https://github.com/ossia/score) : https://aur.archlinux.org/packages/ossia-score-bin
+
 [latencyflex-bin](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-bin
 
 [linux-intel-undervolt-gui-bin](https://github.com/lukechadwick/linux-intel-undervolt-gui): https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
