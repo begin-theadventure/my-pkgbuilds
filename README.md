@@ -39,9 +39,13 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [crossover-overlay-bin](https://github.com/lacymorrow/crossover): https://aur.archlinux.org/packages/crossover-overlay-bin
 
-[flightcore-bin](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore-bin
+[firefox-extension-return-youtube-dislike-bin](https://addons.mozilla.org/addon/return-youtube-dislikes): https://aur.archlinux.org/packages/firefox-extension-return-youtube-dislike-bin
+
+[firefox-extension-xdman8-browser-monitor-bin](https://addons.mozilla.org/addon/xdm-browser-monitor-v8): https://aur.archlinux.org/packages/firefox-extension-xdman8-browser-monitor-bin
 
 [flemozi-bin](https://github.com/KRTirtho/flemozi): https://aur.archlinux.org/packages/flemozi-bin
+
+[flightcore-bin](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore-bin
 
 [hammer-editor-bin](https://github.com/Wavesonics/hammer-editor): https://aur.archlinux.org/packages/hammer-editor-bin
 
@@ -50,6 +54,18 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [ossia-score-bin](https://github.com/ossia/score) : https://aur.archlinux.org/packages/ossia-score-bin
 
 [latencyflex-bin](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-bin
+
+[librewolf-extension-bitwarden-bin](https://addons.mozilla.org/addon/bitwarden-password-manager): https://aur.archlinux.org/packages/librewolf-extension-bitwarden-bin
+
+[librewolf-extension-dark-reader-bin](https://addons.mozilla.org/addon/darkreader): https://aur.archlinux.org/packages/librewolf-extension-dark-reader-bin
+
+[librewolf-extension-localcdn-bin](https://addons.mozilla.org/addon/localcdn-fork-of-decentraleyes): https://aur.archlinux.org/packages/librewolf-extension-localcdn-bin
+
+[librewolf-extension-return-youtube-dislike-bin](https://addons.mozilla.org/addon/return-youtube-dislikes): https://aur.archlinux.org/packages/librewolf-extension-return-youtube-dislike-bin
+
+[librewolf-extension-uget-integration-bin](https://addons.mozilla.org/addon/ugetintegration): https://aur.archlinux.org/packages/librewolf-extension-uget-integration-bin
+
+[librewolf-extension-xdman8-browser-monitor-bin](https://addons.mozilla.org/addon/xdm-browser-monitor-v8): https://aur.archlinux.org/packages/librewolf-extension-xdman8-browser-monitor-bin
 
 [linux-intel-undervolt-gui-bin](https://github.com/lukechadwick/linux-intel-undervolt-gui): https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
 
@@ -85,6 +101,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
 
+[librewolf-extension-dark-reader](https://github.com/darkreader/darkreader): https://aur.archlinux.org/packages/librewolf-extension-dark-reader
+
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
 
 [notesnook](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook
@@ -100,6 +118,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [syngestures](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures
 
 #### Bin packages
+
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
 [hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
