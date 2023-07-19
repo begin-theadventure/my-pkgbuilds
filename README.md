@@ -73,7 +73,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [mrvn-radiant-bin](https://github.com/MRVN-Radiant/MRVN-Radiant): https://aur.archlinux.org/packages/mrvn-radiant-bin
 
-[ossia-score-bin](https://github.com/ossia/score) : https://aur.archlinux.org/packages/ossia-score-bin
+[ossia-score-bin](https://github.com/ossia/score): https://aur.archlinux.org/packages/ossia-score-bin
 
 [papa-bin](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa-bin
 
