@@ -6,19 +6,19 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
 
-[footage](https://gitlab.com/adhami3310/Footage): https://aur.archlinux.org/packages/footage
-
 [flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
 
-[newelle](https://github.com/qwersyk/Newelle): https://aur.archlinux.org/packages/newelle
+[footage](https://gitlab.com/adhami3310/Footage): https://aur.archlinux.org/packages/footage
+
+[latencyflex-proton-ge-custom](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
 
 [mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
+
+[newelle](https://github.com/qwersyk/Newelle): https://aur.archlinux.org/packages/newelle
 
 [papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
 
 [pleaserunthat](https://github.com/Sebicodes99/pleaserunthat-beta): https://aur.archlinux.org/packages/pleaserunthat
-
-[latencyflex-proton-ge-custom](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
 
 [tacentview](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview
 
@@ -51,8 +51,6 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [harmonyvpktool-bin](https://github.com/harmonytf/HarmonyVPKTool): https://aur.archlinux.org/packages/harmonyvpktool-bin
 
-[ossia-score-bin](https://github.com/ossia/score) : https://aur.archlinux.org/packages/ossia-score-bin
-
 [latencyflex-bin](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-bin
 
 [librewolf-extension-bitwarden-bin](https://addons.mozilla.org/addon/bitwarden-password-manager): https://aur.archlinux.org/packages/librewolf-extension-bitwarden-bin
@@ -71,9 +69,11 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [mdlshit-bin](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit-bin
 
+[monitorctl-bin](https://github.com/5iddy/monitorctl): https://aur.archlinux.org/packages/monitorctl-bin
+
 [mrvn-radiant-bin](https://github.com/MRVN-Radiant/MRVN-Radiant): https://aur.archlinux.org/packages/mrvn-radiant-bin
 
-[monitorctl-bin](https://github.com/5iddy/monitorctl): https://aur.archlinux.org/packages/monitorctl-bin
+[ossia-score-bin](https://github.com/ossia/score) : https://aur.archlinux.org/packages/ossia-score-bin
 
 [papa-bin](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa-bin
 
@@ -81,9 +81,9 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [rymfony-bin](https://github.com/Orbitale/Rymfony): https://aur.archlinux.org/packages/rymfony-bin
 
-[tacentview-bin](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview-bin
-
 [sigma-file-manager-bin](https://github.com/aleksey-hoffman/sigma-file-manager): https://aur.archlinux.org/packages/sigma-file-manager-bin
+
+[tacentview-bin](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview-bin
 
 [upscayl-rpm-bin](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-rpm-bin
 
@@ -101,9 +101,9 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
 
-[librewolf-extension-dark-reader](https://github.com/darkreader/darkreader): https://aur.archlinux.org/packages/librewolf-extension-dark-reader
-
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
+
+[librewolf-extension-dark-reader](https://github.com/darkreader/darkreader): https://aur.archlinux.org/packages/librewolf-extension-dark-reader
 
 [notesnook](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook
 
@@ -123,9 +123,9 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
 
-[notesnook-bin](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook-bin
-
 [listmonk-bin](https://github.com/knadh/listmonk): https://aur.archlinux.org/packages/listmonk-bin
+
+[notesnook-bin](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook-bin
 
 #### Git packages
 [curtail-git](https://github.com/Huluti/Curtail): https://aur.archlinux.org/packages/curtail-git
