@@ -20,6 +20,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [pleaserunthat](https://github.com/Sebicodes99/pleaserunthat-beta): https://aur.archlinux.org/packages/pleaserunthat
 
+[legion+](https://github.com/r-ex/LegionPlus): https://aur.archlinux.org/packages/legion+
+
 [tacentview](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview
 
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
