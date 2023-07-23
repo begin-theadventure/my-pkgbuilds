@@ -96,6 +96,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 #### Git packages
 [linuxwave-git](https://github.com/orhun/linuxwave): https://aur.archlinux.org/packages/linuxwave-git
 
+[syngestures-git](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures-git
+
 [telegraph-git](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph-git
 
 ## Adopted:
