@@ -89,6 +89,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [tacentview-bin](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview-bin
 
+[uncso2-bin](https://github.com/L-Leite/UnCSO2): https://aur.archlinux.org/packages/uncso2-bin
+
 [upscayl-rpm-bin](https://github.com/upscayl/upscayl): https://aur.archlinux.org/packages/upscayl-rpm-bin
 
 [vpktool-bin](https://github.com/craftablescience/VPKTool): https://aur.archlinux.org/packages/vpktool-bin
