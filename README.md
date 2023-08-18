@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-#### Standard packages
+**<details><summary> Standard packages </summary>**
 [alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
 
 [crowbar](https://github.com/ZeqMacaw/Crowbar): https://aur.archlinux.org/packages/crowbar
@@ -29,8 +29,9 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
+</details>
 
-#### Bin packages
+**<details><summary> Bin packages </summary>**
 [albumartcreator-bin](https://github.com/0neGal/albumArtCreator): https://aur.archlinux.org/packages/albumartcreator-bin
 
 [alfae-bin](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae-bin
@@ -87,6 +88,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [sigma-file-manager-bin](https://github.com/aleksey-hoffman/sigma-file-manager): https://aur.archlinux.org/packages/sigma-file-manager-bin
 
+[slippi-launcher-bin](https://github.com/project-slippi/slippi-launcher): https://aur.archlinux.org/packages/slippi-launcher-bin
+
 [tacentview-bin](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview-bin
 
 [uncso2-bin](https://github.com/L-Leite/UnCSO2): https://aur.archlinux.org/packages/uncso2-bin
@@ -96,18 +99,22 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [vpktool-bin](https://github.com/craftablescience/VPKTool): https://aur.archlinux.org/packages/vpktool-bin
 
 [xdman8-bin](https://github.com/subhra74/xdm-experimental-binaries): https://aur.archlinux.org/packages/xdman8-bin
+</details>
 
-#### Git packages
+**<details><summary> Git packages </summary>**
 [linuxwave-git](https://github.com/orhun/linuxwave): https://aur.archlinux.org/packages/linuxwave-git
 
 [syngestures-git](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures-git
 
 [telegraph-git](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph-git
+</details>
 
-## Adopted:
-#### Standard packages
+**Adopted:**
 
+**<details><summary> Standard packages </summary>**
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
+
+[fl-studio-integrator](https://github.com/begin-theadventure/fl-studio-integrator-linux): https://aur.archlinux.org/packages/fl-studio-integrator
 
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
 
@@ -124,16 +131,20 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
 
 [syngestures](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures
+</details>
 
-#### Bin packages
-
+**<details><summary> Bin packages </summary>**
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
-
-[hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
 
 [listmonk-bin](https://github.com/knadh/listmonk): https://aur.archlinux.org/packages/listmonk-bin
 
 [notesnook-bin](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook-bin
+</details>
 
-#### Git packages
+**<details><summary> AppImage packages </summary>**
+[hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
+</details>
+
+**<details><summary> Git packages </summary>**
 [curtail-git](https://github.com/Huluti/Curtail): https://aur.archlinux.org/packages/curtail-git
+</details>
