@@ -10,6 +10,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
 
+[fl-studio-integrator](https://github.com/begin-theadventure/fl-studio-integrator-linux): https://aur.archlinux.org/packages/fl-studio-integrator
+
 [flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
 
 [footage](https://gitlab.com/adhami3310/Footage): https://aur.archlinux.org/packages/footage
@@ -124,8 +126,6 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 **<details><summary> Standard packages </summary>**
 
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
-
-[fl-studio-integrator](https://github.com/begin-theadventure/fl-studio-integrator-linux): https://aur.archlinux.org/packages/fl-studio-integrator
 
 [inspektor](https://github.com/hezral/inspektor): https://aur.archlinux.org/packages/inspektor
 
