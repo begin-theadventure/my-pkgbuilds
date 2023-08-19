@@ -1,7 +1,9 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
+
 **<details><summary> Standard packages </summary>**
+
 [alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
 
 [crowbar](https://github.com/ZeqMacaw/Crowbar): https://aur.archlinux.org/packages/crowbar
@@ -12,7 +14,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [footage](https://gitlab.com/adhami3310/Footage): https://aur.archlinux.org/packages/footage
 
-[latencyflex-proton-ge-custom](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
+[inspector](https://github.com/Nokse22/inspector): https://aur.archlinux.org/packages/inspector
 
 [mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
 
@@ -21,6 +23,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
 
 [pleaserunthat](https://github.com/Sebicodes99/pleaserunthat-beta): https://aur.archlinux.org/packages/pleaserunthat
+
+[latencyflex-proton-ge-custom](https://github.com/ishitatsuyuki/LatencyFleX): https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
 
 [legion+](https://github.com/r-ex/LegionPlus): https://aur.archlinux.org/packages/legion+
 
@@ -31,7 +35,9 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 </details>
 
+
 **<details><summary> Bin packages </summary>**
+
 [albumartcreator-bin](https://github.com/0neGal/albumArtCreator): https://aur.archlinux.org/packages/albumartcreator-bin
 
 [alfae-bin](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae-bin
@@ -101,7 +107,9 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [xdman8-bin](https://github.com/subhra74/xdm-experimental-binaries): https://aur.archlinux.org/packages/xdman8-bin
 </details>
 
+
 **<details><summary> Git packages </summary>**
+
 [linuxwave-git](https://github.com/orhun/linuxwave): https://aur.archlinux.org/packages/linuxwave-git
 
 [syngestures-git](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures-git
@@ -109,12 +117,17 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [telegraph-git](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph-git
 </details>
 
+
 **Adopted:**
 
+
 **<details><summary> Standard packages </summary>**
+
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
 
 [fl-studio-integrator](https://github.com/begin-theadventure/fl-studio-integrator-linux): https://aur.archlinux.org/packages/fl-studio-integrator
+
+[inspektor](https://github.com/hezral/inspektor): https://aur.archlinux.org/packages/inspektor
 
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
 
@@ -133,7 +146,11 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [syngestures](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures
 </details>
 
+
 **<details><summary> Bin packages </summary>**
+
+[application-inspector-bin](https://github.com/microsoft/ApplicationInspector): https://aur.archlinux.org/packages/application-inspector-bin
+
 [ghc-raspbian-bin](https://archive.raspbian.org/raspbian/pool/main/g/ghc): https://aur.archlinux.org/packages/ghc-raspbian-bin
 
 [listmonk-bin](https://github.com/knadh/listmonk): https://aur.archlinux.org/packages/listmonk-bin
@@ -141,10 +158,14 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [notesnook-bin](https://github.com/streetwriters/notesnook): https://aur.archlinux.org/packages/notesnook-bin
 </details>
 
+
 **<details><summary> AppImage packages </summary>**
+
 [hotspot-appimage](https://github.com/KDAB/hotspot): https://aur.archlinux.org/packages/hotspot-appimage
 </details>
 
+
 **<details><summary> Git packages </summary>**
+
 [curtail-git](https://github.com/Huluti/Curtail): https://aur.archlinux.org/packages/curtail-git
 </details>
