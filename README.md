@@ -34,6 +34,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
+[uniextract2](https://github.com/Bioruebe/UniExtract2): https://aur.archlinux.org/packages/uniextract2
+
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 </details>
 
