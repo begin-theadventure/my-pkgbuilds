@@ -54,6 +54,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [crossover](https://github.com/lacymorrow/crossover)-overlay-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
 
+[emojimart](https://github.com/vemonet/EmojiMart)-bin: https://aur.archlinux.org/packages/emojimart-bin
+
 firefox-extension-[return-youtube-dislike](https://addons.mozilla.org/addon/return-youtube-dislikes)-bin: https://aur.archlinux.org/packages/firefox-extension-return-youtube-dislike-bin
 
 firefox-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xdm-browser-monitor-v8)-bin: https://aur.archlinux.org/packages/firefox-extension-xdman8-browser-monitor-bin
