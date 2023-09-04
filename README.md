@@ -1,6 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
+86 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -18,7 +19,11 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [inspector](https://github.com/Nokse22/inspector): https://aur.archlinux.org/packages/inspector
 
+[notepad](https://github.com/alexkdeveloper/notepad): https://aur.archlinux.org/packages/notepad
+
 [mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
+
+[mini-text](https://github.com/Nokse22/mini-text): https://aur.archlinux.org/packages/mini-text
 
 [newelle](https://github.com/qwersyk/Newelle): https://aur.archlinux.org/packages/newelle
 
@@ -34,9 +39,17 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
+[teleprompter](https://github.com/Nokse22/teleprompter): https://aur.archlinux.org/packages/teleprompter
+
+[trivia-quiz](https://aur.archlinux.org/packages/trivia-quiz): https://aur.archlinux.org/packages/trivia-quiz
+
 [uniextract2](https://github.com/Bioruebe/UniExtract2): https://aur.archlinux.org/packages/uniextract2
 
+[ultimate-tic-tac-toe](https://github.com/Nokse22/ultimate-tic-tac-toe): https://aur.archlinux.org/packages/ultimate-tic-tac-toe
+
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
+
+[weather](https://github.com/amit9838/weather)-gtk4: https://aur.archlinux.org/packages/weather-gtk4
 </details>
 
 
@@ -68,7 +81,11 @@ firefox-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xdm-
 
 [harmonyvpktool](https://github.com/harmonytf/HarmonyVPKTool)-bin: https://aur.archlinux.org/packages/harmonyvpktool-bin
 
+[kitch](https://itchio.itch.io/kitch)-bin: https://aur.archlinux.org/packages/kitch-bin
+
 [latencyflex](https://github.com/ishitatsuyuki/LatencyFleX)-bin: https://aur.archlinux.org/packages/latencyflex-bin
+
+[lazap](https://aur.archlinux.org/packages/lazap-bin)-bin: https://aur.archlinux.org/packages/lazap-bin
 
 librewolf-extension-[bitwarden](https://addons.mozilla.org/addon/bitwarden-password-manager)-bin: https://aur.archlinux.org/packages/librewolf-extension-bitwarden-bin
 
@@ -84,6 +101,8 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 [linux-intel-undervolt-gui](https://github.com/lukechadwick/linux-intel-undervolt-gui)-bin: https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
 
+[notepadnext](https://github.com/dail8859/NotepadNext)-bin: https://aur.archlinux.org/packages/notepadnext-bin
+
 [mdlshit](https://github.com/headassbtw/mdlshit)-bin: https://aur.archlinux.org/packages/mdlshit-bin
 
 [monitorctl](https://github.com/5iddy/monitorctl)-bin: https://aur.archlinux.org/packages/monitorctl-bin
@@ -94,6 +113,8 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 [papa](https://github.com/AnActualEmerald/papa)-bin: https://aur.archlinux.org/packages/papa-bin
 
+[pdfgui_tools](https://github.com/TheWatcherMultiversal/pdfgui_tools)-bin: https://aur.archlinux.org/packages/pdfgui_tools-bin	
+
 [rspnvpk](https://github.com/taskinoz/RSPNVPK)-bin: https://aur.archlinux.org/packages/rspnvpk-bin
 
 [rymfony](https://github.com/Orbitale/Rymfony)-bin: https://aur.archlinux.org/packages/rymfony-bin
@@ -101,6 +122,8 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)-bin: https://aur.archlinux.org/packages/sigma-file-manager-bin
 
 [slippi-launcher](https://github.com/project-slippi/slippi-launcher)-bin: https://aur.archlinux.org/packages/slippi-launcher-bin
+
+[stlspy](https://github.com/suchmememanyskill/StlSpy)-bin: https://aur.archlinux.org/packages/stlspy-bin
 
 [tacentview](https://github.com/bluescan/tacentview)-bin: https://aur.archlinux.org/packages/tacentview-bin
 
@@ -164,6 +187,8 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 [listmonk](https://github.com/knadh/listmonk)-bin: https://aur.archlinux.org/packages/listmonk-bin
 
 [notesnook](https://github.com/streetwriters/notesnook)-bin: https://aur.archlinux.org/packages/notesnook-bin
+
+[peazip-qt](https://github.com/peazip/PeaZip)-bin: https://aur.archlinux.org/packages/peazip-qt-bin
 </details>
 
 
@@ -176,4 +201,6 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 **<details><summary> Git packages </summary>**
 
 [curtail](https://github.com/Huluti/Curtail)-git: https://aur.archlinux.org/packages/curtail-git
+
+[upscaler](https://gitlab.gnome.org/World/Upscaler)-git: https://aur.archlinux.org/packages/upscaler-git
 </details>
