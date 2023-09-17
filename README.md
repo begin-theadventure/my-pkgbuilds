@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-86 packages found.
+88 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -131,7 +131,7 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 [upscayl](https://github.com/upscayl/upscayl)-rpm-bin: https://aur.archlinux.org/packages/upscayl-rpm-bin
 
-[vpktool](https://github.com/craftablescience/VPKTool)-bin: https://aur.archlinux.org/packages/vpktool-bin
+[vpkedit](https://github.com/craftablescience/VPKEdit)-bin: https://aur.archlinux.org/packages/vpkedit-bin
 
 [xdelta3-cross-gui](https://github.com/dan0v/xdelta3-cross-gui)-bin: https://aur.archlinux.org/packages/xdelta3-cross-gui-bin
 
