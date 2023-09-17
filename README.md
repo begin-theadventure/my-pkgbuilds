@@ -67,6 +67,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [crossover](https://github.com/lacymorrow/crossover)-overlay-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
 
+[cryptocam-companion](https://gitlab.com/cryptocam/cryptocam-companion)-bin: https://aur.archlinux.org/packages/cryptocam-companion-bin
+
 [emojimart](https://github.com/vemonet/EmojiMart)-bin: https://aur.archlinux.org/packages/emojimart-bin
 
 firefox-extension-[return-youtube-dislike](https://addons.mozilla.org/addon/return-youtube-dislikes)-bin: https://aur.archlinux.org/packages/firefox-extension-return-youtube-dislike-bin
@@ -183,6 +185,8 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 [application-inspector](https://github.com/microsoft/ApplicationInspector)-bin: https://aur.archlinux.org/packages/application-inspector-bin
 
 [ghc-raspbian](https://archive.raspbian.org/raspbian/pool/main/g/ghc)-bin: https://aur.archlinux.org/packages/ghc-raspbian-bin
+
+[peazip-qt-bin](https://github.com/peazip/PeaZip): https://aur.archlinux.org/packages/peazip-qt-bin
 
 [listmonk](https://github.com/knadh/listmonk)-bin: https://aur.archlinux.org/packages/listmonk-bin
 
