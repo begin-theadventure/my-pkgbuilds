@@ -63,6 +63,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [audius-client](https://github.com/AudiusProject/audius-protocol/tree/main/packages/web)-bin: https://aur.archlinux.org/packages/audius-client-bin
 
+[beaver-notes](https://github.com/Daniele-rolli/Beaver-Notes)-bin: https://aur.archlinux.org/packages/beaver-notes-bin
+
 [calyxos-flasher](https://gitlab.com/CalyxOS/device-flasher)-bin: https://aur.archlinux.org/packages/calyxos-flasher-bin
 
 [converternow](https://github.com/ferraridamiano/ConverterNOW)-bin: https://aur.archlinux.org/packages/converternow-bin
