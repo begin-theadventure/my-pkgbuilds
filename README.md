@@ -1,15 +1,19 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-89 packages found.
+93 packages found.
 
 **<details><summary> Standard packages </summary>**
 
 [alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
 
+[bmi](https://aur.archlinux.org/packages/bmi): https://github.com/alexkdeveloper/bmi
+
 [crowbar](https://github.com/ZeqMacaw/Crowbar): https://aur.archlinux.org/packages/crowbar
 
 [chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
+
+[desktopius](https://github.com/alexkdeveloper/dfc): https://aur.archlinux.org/packages/desktopius
 
 [fl-studio-integrator](https://github.com/begin-theadventure/fl-studio-integrator-linux): https://aur.archlinux.org/packages/fl-studio-integrator
 
@@ -24,6 +28,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
 
 [mini-text](https://github.com/Nokse22/mini-text): https://aur.archlinux.org/packages/mini-text
+
+[nottist](https://github.com/alexkdeveloper/nottist): Simple notepad for GNU/Linux
 
 [newelle](https://github.com/qwersyk/Newelle): https://aur.archlinux.org/packages/newelle
 
@@ -40,6 +46,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
 [teleprompter](https://github.com/Nokse22/teleprompter): https://aur.archlinux.org/packages/teleprompter
+
+[tictactoy](https://aur.archlinux.org/packages/tictactoy): https://github.com/alexkdeveloper/tictactoy
 
 [trivia-quiz](https://aur.archlinux.org/packages/trivia-quiz): https://aur.archlinux.org/packages/trivia-quiz
 
