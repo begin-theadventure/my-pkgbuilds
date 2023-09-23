@@ -7,7 +7,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
 
-[bmi](https://aur.archlinux.org/packages/bmi): https://github.com/alexkdeveloper/bmi
+[bmi](https://aur.archlinux.org/packages/bmi): https://aur.archlinux.org/packages/bmi
 
 [crowbar](https://github.com/ZeqMacaw/Crowbar): https://aur.archlinux.org/packages/crowbar
 
@@ -47,7 +47,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [teleprompter](https://github.com/Nokse22/teleprompter): https://aur.archlinux.org/packages/teleprompter
 
-[tictactoy](https://aur.archlinux.org/packages/tictactoy): https://github.com/alexkdeveloper/tictactoy
+[tictactoy](https://aur.archlinux.org/packages/tictactoy): https://aur.archlinux.org/packages/tictactoy
 
 [trivia-quiz](https://aur.archlinux.org/packages/trivia-quiz): https://aur.archlinux.org/packages/trivia-quiz
 
