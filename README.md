@@ -29,7 +29,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [mini-text](https://github.com/Nokse22/mini-text): https://aur.archlinux.org/packages/mini-text
 
-[nottist](https://github.com/alexkdeveloper/nottist): Simple notepad for GNU/Linux
+[nottist](https://github.com/alexkdeveloper/nottist): https://aur.archlinux.org/packages/nottist
 
 [newelle](https://github.com/qwersyk/Newelle): https://aur.archlinux.org/packages/newelle
 
