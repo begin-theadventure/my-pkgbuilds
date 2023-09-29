@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-93 packages found.
+97 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -20,6 +20,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [flightcore](https://github.com/R2NorthstarTools/FlightCore): https://aur.archlinux.org/packages/flightcore
 
 [footage](https://gitlab.com/adhami3310/Footage): https://aur.archlinux.org/packages/footage
+
+[hamonikr-onboard-layout-ko](https://github.com/hamonikr/hamonikr-onboard-layout-ko): https://aur.archlinux.org/packages/hamonikr-onboard-layout-ko
 
 [inspector](https://github.com/Nokse22/inspector): https://aur.archlinux.org/packages/inspector
 
@@ -150,6 +152,8 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 [xdelta3-cross-gui](https://github.com/dan0v/xdelta3-cross-gui)-bin: https://aur.archlinux.org/packages/xdelta3-cross-gui-bin
 
 [xdman8](https://github.com/subhra74/xdm-experimental-binaries)-bin: https://aur.archlinux.org/packages/xdman8-bin
+
+[youtube-dl-gui)](https://github.com/StefanLobbenmeier/youtube-dl-gui): https://aur.archlinux.org/packages/youtube-dl-gui-bin
 </details>
 
 
@@ -178,6 +182,8 @@ gimp-plugin-[contrastfix](https://web.archive.org/web/20180628150143if_/http://r
 
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
 
+[matchbox-keyboard](https://www.yoctoproject.org/software-item/matchbox): https://aur.archlinux.org/packages/matchbox-keyboard
+
 librewolf-extension-[dark-reader](https://github.com/darkreader/darkreader): https://aur.archlinux.org/packages/librewolf-extension-dark-reader
 
 python-[pyvisa](https://github.com/pyvisa/pyvisa): https://aur.archlinux.org/packages/python-pyvisa
@@ -187,6 +193,8 @@ python-[pyvisa-py](https://github.com/pyvisa/pyvisa-py): https://aur.archlinux.o
 python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.archlinux.org/packages/python-undervolt
 
 [riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
+
+[rmtrash](https://github.com/PhrozenByte/rmtrash): https://aur.archlinux.org/packages/rmtrash
 
 [syngestures](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures
 </details>
