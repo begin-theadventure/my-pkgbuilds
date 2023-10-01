@@ -151,7 +151,7 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 [xdelta3-cross-gui](https://github.com/dan0v/xdelta3-cross-gui)-bin: https://aur.archlinux.org/packages/xdelta3-cross-gui-bin
 
-[xdman8](https://github.com/subhra74/xdm-experimental-binaries)-bin: https://aur.archlinux.org/packages/xdman8-bin
+[xdman](https://github.com/subhra74/xdm-experimental-binaries)-beta-bin: https://aur.archlinux.org/packages/xdman-beta-bin
 
 [youtube-dl-gui)](https://github.com/StefanLobbenmeier/youtube-dl-gui): https://aur.archlinux.org/packages/youtube-dl-gui-bin
 </details>
