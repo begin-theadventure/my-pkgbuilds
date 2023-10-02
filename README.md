@@ -39,6 +39,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [pleaserunthat](https://github.com/Sebicodes99/pleaserunthat-beta): https://aur.archlinux.org/packages/pleaserunthat
 
+[slos-gimpainter](https://github.com/SenlinOS/SLOS-GIMPainter): https://aur.archlinux.org/packages/slos-gimpainter
+
 [latencyflex](https://github.com/ishitatsuyuki/LatencyFleX)-proton-ge-custom: https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
 
 [legion+](https://github.com/r-ex/LegionPlus): https://aur.archlinux.org/packages/legion+
@@ -175,6 +177,8 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 **<details><summary> Standard packages </summary>**
 
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
+
+[gimp-brushbox](https://deviantart.com/grindgod/art/The-Gimp-TextureBox-385558228): https://aur.archlinux.org/packages/gimp-brushbox
 
 gimp-plugin-[contrastfix](https://web.archive.org/web/20180628150143if_/http://registry.gimp.org/node/182): https://aur.archlinux.org/packages/gimp-plugin-contrastfix
 
