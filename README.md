@@ -7,13 +7,21 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [alfae](https://github.com/suchmememanyskill/Alfae): https://aur.archlinux.org/packages/alfae
 
-[bmi](https://aur.archlinux.org/packages/bmi): https://aur.archlinux.org/packages/bmi
+[astronum](https://github.com/alexkdeveloper/astronum): https://aur.archlinux.org/packages/astronum
 
-[crowbar](https://github.com/ZeqMacaw/Crowbar): https://aur.archlinux.org/packages/crowbar
+[bmi](https://aur.archlinux.org/packages/bmi): https://aur.archlinux.org/packages/bmi
 
 [chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
 
+[crowbar](https://github.com/ZeqMacaw/Crowbar): https://aur.archlinux.org/packages/crowbar
+
 [desktopius](https://github.com/alexkdeveloper/dfc): https://aur.archlinux.org/packages/desktopius
+
+[dice](https://github.com/alexkdeveloper/dice)-gtk4: https://aur.archlinux.org/packages/dice-gtk4
+
+[dwxmlcreator](https://github.com/alexkdeveloper/dwxmlcreator): https://aur.archlinux.org/packages/dwxmlcreator
+
+[easter](https://aur.archlinux.org/packages/easter): https://aur.archlinux.org/packages/easter
 
 [fl-studio-integrator](https://github.com/begin-theadventure/fl-studio-integrator-linux): https://aur.archlinux.org/packages/fl-studio-integrator
 
@@ -21,29 +29,53 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [footage](https://gitlab.com/adhami3310/Footage): https://aur.archlinux.org/packages/footage
 
+[forgetpass](https://github.com/alexkdeveloper/forgetpass): https://aur.archlinux.org/packages/forgetpass
+
+[goldsearch](https://github.com/alexkdeveloper/goldsearch): https://aur.archlinux.org/packages/goldsearch
+
+[gomoku](https://github.com/alexkdeveloper/gomoku): https://aur.archlinux.org/packages/gomoku
+
+[guessnumber](https://github.com/alexkdeveloper/guessnumber): https://aur.archlinux.org/packages/guessnumber
+
 [hamonikr-onboard-layout-ko](https://github.com/hamonikr/hamonikr-onboard-layout-ko): https://aur.archlinux.org/packages/hamonikr-onboard-layout-ko
 
 [inspector](https://github.com/Nokse22/inspector): https://aur.archlinux.org/packages/inspector
 
-[notepad](https://github.com/alexkdeveloper/notepad): https://aur.archlinux.org/packages/notepad
-
-[mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
-
-[mini-text](https://github.com/Nokse22/mini-text): https://aur.archlinux.org/packages/mini-text
-
-[nottist](https://github.com/alexkdeveloper/nottist): https://aur.archlinux.org/packages/nottist
-
-[newelle](https://github.com/qwersyk/Newelle): https://aur.archlinux.org/packages/newelle
-
-[papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
-
-[pleaserunthat](https://github.com/Sebicodes99/pleaserunthat-beta): https://aur.archlinux.org/packages/pleaserunthat
-
-[slos-gimpainter](https://github.com/SenlinOS/SLOS-GIMPainter): https://aur.archlinux.org/packages/slos-gimpainter
-
 [latencyflex](https://github.com/ishitatsuyuki/LatencyFleX)-proton-ge-custom: https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
 
 [legion+](https://github.com/r-ex/LegionPlus): https://aur.archlinux.org/packages/legion+
+
+[mdlshit](https://github.com/headassbtw/mdlshit): https://aur.archlinux.org/packages/mdlshit
+
+[mini-system-monitor](https://github.com/hakandundar34coding/mini-system-monitor): https://aur.archlinux.org/packages/mini-system-monitor
+
+[mini-text](https://github.com/Nokse22/mini-text): https://aur.archlinux.org/packages/mini-text
+
+[newelle](https://github.com/qwersyk/Newelle): https://aur.archlinux.org/packages/newelle
+
+[notepad](https://github.com/alexkdeveloper/notepad): https://aur.archlinux.org/packages/notepad
+
+[nottist](https://github.com/alexkdeveloper/nottist): https://aur.archlinux.org/packages/nottist
+
+[papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
+
+[pasgen](https://github.com/alexkdeveloper/pasgen): https://aur.archlinux.org/packages/pasgen
+
+[raddiola](https://github.com/alexkdeveloper/raddiola): https://aur.archlinux.org/packages/raddiola
+
+[radio](https://github.com/alexkdeveloper/radio): https://aur.archlinux.org/packages/radio
+
+[recorder](https://github.com/alexkdeveloper/recorder): https://aur.archlinux.org/packages/recorder
+
+[relaxator](https://github.com/alexkdeveloper/relaxator): https://aur.archlinux.org/packages/relaxator
+
+[resources](https://github.com/nokyan/resources): https://github.com/nokyan/resources
+
+[slos-gimpainter](https://github.com/SenlinOS/SLOS-GIMPainter): https://aur.archlinux.org/packages/slos-gimpainter
+
+[somafm](https://github.com/alexkdeveloper/somafm): https://aur.archlinux.org/packages/somafm
+
+[sudoku](https://github.com/alexkdeveloper/sudoku)-gtk3: https://aur.archlinux.org/packages/sudoku-gtk3
 
 [tacentview](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview
 
@@ -51,13 +83,15 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [teleprompter](https://github.com/Nokse22/teleprompter): https://aur.archlinux.org/packages/teleprompter
 
+[ticketbooth](https://github.com/aleiepure/ticketbooth): https://aur.archlinux.org/packages/ticketbooth
+
 [tictactoy](https://aur.archlinux.org/packages/tictactoy): https://aur.archlinux.org/packages/tictactoy
 
 [trivia-quiz](https://aur.archlinux.org/packages/trivia-quiz): https://aur.archlinux.org/packages/trivia-quiz
 
-[uniextract2](https://github.com/Bioruebe/UniExtract2): https://aur.archlinux.org/packages/uniextract2
-
 [ultimate-tic-tac-toe](https://github.com/Nokse22/ultimate-tic-tac-toe): https://aur.archlinux.org/packages/ultimate-tic-tac-toe
+
+[uniextract2](https://github.com/Bioruebe/UniExtract2): https://aur.archlinux.org/packages/uniextract2
 
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 
@@ -84,6 +118,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [crossover](https://github.com/lacymorrow/crossover)-overlay-bin: https://aur.archlinux.org/packages/crossover-overlay-bin
 
 [cryptocam-companion](https://gitlab.com/cryptocam/cryptocam-companion)-bin: https://aur.archlinux.org/packages/cryptocam-companion-bin
+
+[emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard)-bin: https://aur.archlinux.org/packages/emoji-keyboard-bin
 
 [emojimart](https://github.com/vemonet/EmojiMart)-bin: https://aur.archlinux.org/packages/emojimart-bin
 
@@ -141,9 +177,13 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 [slippi-launcher](https://github.com/project-slippi/slippi-launcher)-bin: https://aur.archlinux.org/packages/slippi-launcher-bin
 
+[soundy](https://github.com/syfds/soundy)-bin: https://aur.archlinux.org/packages/soundy-bin
+
 [stlspy](https://github.com/suchmememanyskill/StlSpy)-bin: https://aur.archlinux.org/packages/stlspy-bin
 
 [tacentview](https://github.com/bluescan/tacentview)-bin: https://aur.archlinux.org/packages/tacentview-bin
+
+[ttop](https://github.com/inv2004/ttop)-bin: https://aur.archlinux.org/packages/ttop-bin
 
 [uncso2](https://github.com/L-Leite/UnCSO2)-bin: https://aur.archlinux.org/packages/uncso2-bin
 
@@ -161,13 +201,17 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 **<details><summary> Git packages </summary>**
 
-[yadp](https://aur.archlinux.org/packages/yadp-git)-git: https://aur.archlinux.org/packages/yadp-git
-
 [linuxwave](https://github.com/orhun/linuxwave)-git: https://aur.archlinux.org/packages/linuxwave-git
 
 [syngestures](https://github.com/mqudsi/syngesture)-git: https://aur.archlinux.org/packages/syngestures-git
 
 [telegraph](https://github.com/fkinoshita/Telegraph)-git: https://aur.archlinux.org/packages/telegraph-git
+
+[txtreader](https://github.com/alexkdeveloper/txtreader): https://aur.archlinux.org/packages/txtreader-git
+
+[weather](https://github.com/alexkdeveloper/weather)-vala-git: https://aur.archlinux.org/packages/weather-vala-git
+
+[yadp](https://aur.archlinux.org/packages/yadp-git)-git: https://aur.archlinux.org/packages/yadp-git
 </details>
 
 
