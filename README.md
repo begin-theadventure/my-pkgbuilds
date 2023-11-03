@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-132 packages found.
+133 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -245,6 +245,8 @@ gimp-plugin-[contrastfix](https://web.archive.org/web/20180628150143if_/http://r
 [image-optimizer](https://aur.archlinux.org/packages/image-optimizer): https://aur.archlinux.org/packages/image-optimizer
 
 [inspektor](https://github.com/hezral/inspektor): https://aur.archlinux.org/packages/inspektor
+
+[jexiftoolgui](https://github.com/hvdwolf/jExifToolGUI): https://aur.archlinux.org/packages/jexiftoolgui
 
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
 
