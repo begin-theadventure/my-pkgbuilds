@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-122 packages found.
+132 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -19,7 +19,11 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [dice](https://github.com/alexkdeveloper/dice)-gtk4: https://aur.archlinux.org/packages/dice-gtk4
 
+[dosage](https://github.com/diegopvlk/Dosage)-tracker: https://aur.archlinux.org/packages/dosage-tracker
+
 [dwxmlcreator](https://github.com/alexkdeveloper/dwxmlcreator): https://aur.archlinux.org/packages/dwxmlcreator
+
+[errands](https://github.com/mrvladus/Errands): https://aur.archlinux.org/packages/errands
 
 [easter](https://aur.archlinux.org/packages/easter): https://aur.archlinux.org/packages/easter
 
@@ -31,6 +35,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [forgetpass](https://github.com/alexkdeveloper/forgetpass): https://aur.archlinux.org/packages/forgetpass
 
+[francis](https://invent.kde.org/utilities/francis): https://aur.archlinux.org/packages/francis
+
 [goldsearch](https://github.com/alexkdeveloper/goldsearch): https://aur.archlinux.org/packages/goldsearch
 
 [gomoku](https://github.com/alexkdeveloper/gomoku): https://aur.archlinux.org/packages/gomoku
@@ -40,6 +46,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [hamonikr-onboard-layout-ko](https://github.com/hamonikr/hamonikr-onboard-layout-ko): https://aur.archlinux.org/packages/hamonikr-onboard-layout-ko
 
 [inspector](https://github.com/Nokse22/inspector): https://aur.archlinux.org/packages/inspector
+
+[kleaner](https://aur.archlinux.org/packages/kleaner): https://github.com/najepaliya/kleaner 
 
 [latencyflex](https://github.com/ishitatsuyuki/LatencyFleX)-proton-ge-custom: https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
 
@@ -56,6 +64,10 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [notepad](https://github.com/alexkdeveloper/notepad): https://aur.archlinux.org/packages/notepad
 
 [nottist](https://github.com/alexkdeveloper/nottist): https://aur.archlinux.org/packages/nottist
+
+[opstakultura](https://github.com/dida-code/opstakultura): https://aur.archlinux.org/packages/opstakultura
+
+[overskride](https://github.com/kaii-lb/overskride): https://aur.archlinux.org/packages/overskride
 
 [papa](https://github.com/AnActualEmerald/papa): https://aur.archlinux.org/packages/papa
 
@@ -78,6 +90,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [sudoku](https://github.com/alexkdeveloper/sudoku)-gtk3: https://aur.archlinux.org/packages/sudoku-gtk3
 
 [tacentview](https://github.com/bluescan/tacentview): https://aur.archlinux.org/packages/tacentview
+
+[tags](https://github.com/phastmike/tags): https://aur.archlinux.org/packages/tags
 
 [telegraph](https://github.com/fkinoshita/Telegraph): https://aur.archlinux.org/packages/telegraph
 
@@ -122,6 +136,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard)-bin: https://aur.archlinux.org/packages/emoji-keyboard-bin
 
 [emojimart](https://github.com/vemonet/EmojiMart)-bin: https://aur.archlinux.org/packages/emojimart-bin
+
+[feeddeck](https://github.com/feeddeck/feeddeck)-bin: https://aur.archlinux.org/packages/feeddeck-bin
 
 firefox-extension-[return-youtube-dislike](https://addons.mozilla.org/addon/return-youtube-dislikes)-bin: https://aur.archlinux.org/packages/firefox-extension-return-youtube-dislike-bin
 
@@ -226,6 +242,8 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 gimp-plugin-[contrastfix](https://web.archive.org/web/20180628150143if_/http://registry.gimp.org/node/182): https://aur.archlinux.org/packages/gimp-plugin-contrastfix
 
+[image-optimizer](https://aur.archlinux.org/packages/image-optimizer): https://aur.archlinux.org/packages/image-optimizer
+
 [inspektor](https://github.com/hezral/inspektor): https://aur.archlinux.org/packages/inspektor
 
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
@@ -254,13 +272,13 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 
 [ghc-raspbian](https://archive.raspbian.org/raspbian/pool/main/g/ghc)-bin: https://aur.archlinux.org/packages/ghc-raspbian-bin
 
-[peazip-qt-bin](https://github.com/peazip/PeaZip): https://aur.archlinux.org/packages/peazip-qt-bin
+[image-optimizer](https://github.com/gijsgoudzwaard/image-optimizer)-bin: https://aur.archlinux.org/packages/image-optimizer-bin
 
 [listmonk](https://github.com/knadh/listmonk)-bin: https://aur.archlinux.org/packages/listmonk-bin
 
 [notesnook](https://github.com/streetwriters/notesnook)-bin: https://aur.archlinux.org/packages/notesnook-bin
 
-[peazip-qt](https://github.com/peazip/PeaZip)-bin: https://aur.archlinux.org/packages/peazip-qt-bin
+[peazip](https://github.com/peazip/PeaZip)-qt-bin: https://aur.archlinux.org/packages/peazip-qt-bin
 </details>
 
 
@@ -273,6 +291,8 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 **<details><summary> Git packages </summary>**
 
 [curtail](https://github.com/Huluti/Curtail)-git: https://aur.archlinux.org/packages/curtail-git
+
+[image-optimizer](https://aur.archlinux.org/packages/image-optimizer)-git: https://aur.archlinux.org/packages/image-optimizer-git
 
 [upscaler](https://gitlab.gnome.org/World/Upscaler)-git: https://aur.archlinux.org/packages/upscaler-git
 </details>
