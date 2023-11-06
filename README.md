@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-133 packages found.
+135 packages found.
 
 **<details><summary> Standard packages </summary>**
 
