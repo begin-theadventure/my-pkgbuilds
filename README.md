@@ -250,15 +250,17 @@ gimp-plugin-[contrastfix](https://web.archive.org/web/20180628150143if_/http://r
 
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
 
-[matchbox-keyboard](https://www.yoctoproject.org/software-item/matchbox): https://aur.archlinux.org/packages/matchbox-keyboard
-
 librewolf-extension-[dark-reader](https://github.com/darkreader/darkreader): https://aur.archlinux.org/packages/librewolf-extension-dark-reader
+
+[matchbox-keyboard](https://www.yoctoproject.org/software-item/matchbox): https://aur.archlinux.org/packages/matchbox-keyboard
 
 python-[pyvisa](https://github.com/pyvisa/pyvisa): https://aur.archlinux.org/packages/python-pyvisa
 
 python-[pyvisa-py](https://github.com/pyvisa/pyvisa-py): https://aur.archlinux.org/packages/python-pyvisa-py
 
 python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.archlinux.org/packages/python-undervolt
+
+[redshift-qt](https://github.com/Chemrat/redshift-qt): https://aur.archlinux.org/packages/redshift-qt
 
 [riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
 
@@ -295,6 +297,8 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 [curtail](https://github.com/Huluti/Curtail)-git: https://aur.archlinux.org/packages/curtail-git
 
 [image-optimizer](https://aur.archlinux.org/packages/image-optimizer)-git: https://aur.archlinux.org/packages/image-optimizer-git
+
+[redshift-qt](https://github.com/Chemrat/redshift-qt)-git: https://aur.archlinux.org/packages/redshift-qt-git
 
 [upscaler](https://gitlab.gnome.org/World/Upscaler)-git: https://aur.archlinux.org/packages/upscaler-git
 </details>
