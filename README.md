@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-135 packages found.
+137 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -133,6 +133,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [cryptocam-companion](https://gitlab.com/cryptocam/cryptocam-companion)-bin: https://aur.archlinux.org/packages/cryptocam-companion-bin
 
+deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-bin: https://aur.archlinux.org/packages/deadbeef-plugin-jack-bin
+
 [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard)-bin: https://aur.archlinux.org/packages/emoji-keyboard-bin
 
 [emojimart](https://github.com/vemonet/EmojiMart)-bin: https://aur.archlinux.org/packages/emojimart-bin
@@ -171,13 +173,13 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 [linux-intel-undervolt-gui](https://github.com/lukechadwick/linux-intel-undervolt-gui)-bin: https://aur.archlinux.org/packages/linux-intel-undervolt-gui-bin
 
-[notepadnext](https://github.com/dail8859/NotepadNext)-bin: https://aur.archlinux.org/packages/notepadnext-bin
-
 [mdlshit](https://github.com/headassbtw/mdlshit)-bin: https://aur.archlinux.org/packages/mdlshit-bin
 
 [monitorctl](https://github.com/5iddy/monitorctl)-bin: https://aur.archlinux.org/packages/monitorctl-bin
 
 [mrvn-radiant](https://github.com/MRVN-Radiant/MRVN-Radiant)-bin: https://aur.archlinux.org/packages/mrvn-radiant-bin
+
+[notepadnext](https://github.com/dail8859/NotepadNext)-bin: https://aur.archlinux.org/packages/notepadnext-bin
 
 [ossia-score](https://github.com/ossia/score)-bin: https://aur.archlinux.org/packages/ossia-score-bin
 
@@ -211,11 +213,13 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 [xdman](https://github.com/subhra74/xdm-experimental-binaries)-beta-bin: https://aur.archlinux.org/packages/xdman-beta-bin
 
-[youtube-dl-gui)](https://github.com/StefanLobbenmeier/youtube-dl-gui): https://aur.archlinux.org/packages/youtube-dl-gui-bin
+[youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui): https://aur.archlinux.org/packages/youtube-dl-gui-bin
 </details>
 
 
 **<details><summary> Git packages </summary>**
+
+deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur.archlinux.org/packages/deadbeef-plugin-jack-git
 
 [linuxwave](https://github.com/orhun/linuxwave)-git: https://aur.archlinux.org/packages/linuxwave-git
 
