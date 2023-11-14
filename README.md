@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-137 packages found.
+139 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -9,7 +9,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [astronum](https://github.com/alexkdeveloper/astronum): https://aur.archlinux.org/packages/astronum
 
-[bmi](https://aur.archlinux.org/packages/bmi): https://aur.archlinux.org/packages/bmi
+[bmi](https://github.com/alexkdeveloper/bmi): https://aur.archlinux.org/packages/bmi
 
 [chromatic](https://github.com/nate-xyz/chromatic): https://aur.archlinux.org/packages/chromatic
 
@@ -25,7 +25,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [errands](https://github.com/mrvladus/Errands): https://aur.archlinux.org/packages/errands
 
-[easter](https://aur.archlinux.org/packages/easter): https://aur.archlinux.org/packages/easter
+[easter](https://github.com/alexkdeveloper/easter): https://aur.archlinux.org/packages/easter
 
 [fl-studio-integrator](https://github.com/begin-theadventure/fl-studio-integrator-linux): https://aur.archlinux.org/packages/fl-studio-integrator
 
@@ -47,7 +47,7 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [inspector](https://github.com/Nokse22/inspector): https://aur.archlinux.org/packages/inspector
 
-[kleaner](https://aur.archlinux.org/packages/kleaner): https://github.com/najepaliya/kleaner 
+[kleaner](https://github.com/najepaliya/kleaner): https://aur.archlinux.org/packages/kleaner
 
 [latencyflex](https://github.com/ishitatsuyuki/LatencyFleX)-proton-ge-custom: https://aur.archlinux.org/packages/latencyflex-proton-ge-custom
 
@@ -64,6 +64,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [notepad](https://github.com/alexkdeveloper/notepad): https://aur.archlinux.org/packages/notepad
 
 [nottist](https://github.com/alexkdeveloper/nottist): https://aur.archlinux.org/packages/nottist
+
+[onboard-layout-zhuyin](https://github.com/andyching168/onboard-layout-zhuyin): https://aur.archlinux.org/packages/onboard-layout-zhuyin
 
 [opstakultura](https://github.com/dida-code/opstakultura): https://aur.archlinux.org/packages/opstakultura
 
@@ -99,9 +101,9 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [ticketbooth](https://github.com/aleiepure/ticketbooth): https://aur.archlinux.org/packages/ticketbooth
 
-[tictactoy](https://aur.archlinux.org/packages/tictactoy): https://aur.archlinux.org/packages/tictactoy
+[tictactoy](https://github.com/alexkdeveloper/tictactoy): https://aur.archlinux.org/packages/tictactoy
 
-[trivia-quiz](https://aur.archlinux.org/packages/trivia-quiz): https://aur.archlinux.org/packages/trivia-quiz
+[trivia-quiz](https://github.com/Nokse22/trivia-quiz): https://aur.archlinux.org/packages/trivia-quiz
 
 [ultimate-tic-tac-toe](https://github.com/Nokse22/ultimate-tic-tac-toe): https://aur.archlinux.org/packages/ultimate-tic-tac-toe
 
@@ -157,11 +159,11 @@ firefox-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xdm-
 
 [latencyflex](https://github.com/ishitatsuyuki/LatencyFleX)-bin: https://aur.archlinux.org/packages/latencyflex-bin
 
-[lazap](https://aur.archlinux.org/packages/lazap-bin)-bin: https://aur.archlinux.org/packages/lazap-bin
+[lazap](https://github.com/Lazap-Development/Lazap)-bin: https://aur.archlinux.org/packages/lazap-bin
 
 librewolf-extension-[bitwarden](https://addons.mozilla.org/addon/bitwarden-password-manager)-bin: https://aur.archlinux.org/packages/librewolf-extension-bitwarden-bin
 
-librewolf-extension-[dark-reader](https://addons.mozilla.org/addon/darkreader)-bin: https://aur.archlinux.org/packages/librewolf-extension-dark-reader-bin
+librewolf-extension-[darkreader](https://addons.mozilla.org/addon/darkreader)-bin: https://aur.archlinux.org/packages/librewolf-extension-darkreader-bin
 
 librewolf-extension-[localcdn](https://addons.mozilla.org/addon/localcdn-fork-of-decentraleyes)-bin: https://aur.archlinux.org/packages/librewolf-extension-localcdn-bin
 
@@ -211,7 +213,7 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 [xdelta3-cross-gui](https://github.com/dan0v/xdelta3-cross-gui)-bin: https://aur.archlinux.org/packages/xdelta3-cross-gui-bin
 
-[xdman](https://github.com/subhra74/xdm-experimental-binaries)-beta-bin: https://aur.archlinux.org/packages/xdman-beta-bin
+[xdman](https://github.com/subhra74/xdm)-beta-bin: https://aur.archlinux.org/packages/xdman-beta-bin
 
 [youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui): https://aur.archlinux.org/packages/youtube-dl-gui-bin
 </details>
@@ -231,7 +233,7 @@ deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur
 
 [weather](https://github.com/alexkdeveloper/weather)-vala-git: https://aur.archlinux.org/packages/weather-vala-git
 
-[yadp](https://aur.archlinux.org/packages/yadp-git)-git: https://aur.archlinux.org/packages/yadp-git
+[yadp](https://github.com/Nhoya/YADP)-git: https://aur.archlinux.org/packages/yadp-git
 </details>
 
 
@@ -246,7 +248,7 @@ deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur
 
 gimp-plugin-[contrastfix](https://web.archive.org/web/20180628150143if_/http://registry.gimp.org/node/182): https://aur.archlinux.org/packages/gimp-plugin-contrastfix
 
-[image-optimizer](https://aur.archlinux.org/packages/image-optimizer): https://aur.archlinux.org/packages/image-optimizer
+[image-optimizer](https://github.com/gijsgoudzwaard/image-optimizer): https://aur.archlinux.org/packages/image-optimizer
 
 [inspektor](https://github.com/hezral/inspektor): https://aur.archlinux.org/packages/inspektor
 
@@ -254,7 +256,7 @@ gimp-plugin-[contrastfix](https://web.archive.org/web/20180628150143if_/http://r
 
 [kddockwidgets](https://github.com/KDAB/KDDockWidgets): https://aur.archlinux.org/packages/kddockwidgets
 
-librewolf-extension-[dark-reader](https://github.com/darkreader/darkreader): https://aur.archlinux.org/packages/librewolf-extension-dark-reader
+librewolf-extension-[darkreader](https://github.com/darkreader/darkreader): https://aur.archlinux.org/packages/librewolf-extension-darkreader
 
 [matchbox-keyboard](https://www.yoctoproject.org/software-item/matchbox): https://aur.archlinux.org/packages/matchbox-keyboard
 
@@ -266,11 +268,13 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 
 [redshift-qt](https://github.com/Chemrat/redshift-qt): https://aur.archlinux.org/packages/redshift-qt
 
-[riseup-vpn](https://github.com/leapcode/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
+[riseup-vpn](https://0xacab.org/leap/bitmask-vpn): https://aur.archlinux.org/packages/riseup-vpn
 
 [rmtrash](https://github.com/PhrozenByte/rmtrash): https://aur.archlinux.org/packages/rmtrash
 
 [syngestures](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures
+
+[vimcdoc](http://vimcdoc.sf.net) : https://aur.archlinux.org/packages/vimcdoc
 </details>
 
 
@@ -300,7 +304,7 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 
 [curtail](https://github.com/Huluti/Curtail)-git: https://aur.archlinux.org/packages/curtail-git
 
-[image-optimizer](https://aur.archlinux.org/packages/image-optimizer)-git: https://aur.archlinux.org/packages/image-optimizer-git
+[image-optimizer](https://github.com/gijsgoudzwaard/image-optimizer)-git: https://aur.archlinux.org/packages/image-optimizer-git
 
 [redshift-qt](https://github.com/Chemrat/redshift-qt)-git: https://aur.archlinux.org/packages/redshift-qt-git
 
