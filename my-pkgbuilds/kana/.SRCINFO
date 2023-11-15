@@ -10,8 +10,8 @@ pkgbase = kana
 	makedepends = cargo
 	makedepends = git
 	makedepends = meson
-	depends = libadwaita
 	depends = gst-plugins-bad-libs
+	depends = libadwaita
 	source = git+https://gitlab.gnome.org/fkinoshita/kana.git#tag=v1.2
 	sha256sums = SKIP
 

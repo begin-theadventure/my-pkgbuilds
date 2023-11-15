@@ -7,7 +7,7 @@ pkgdesc="Learn Japanese characters"
 url="https://gitlab.gnome.org/fkinoshita/kana"
 arch=('x86_64' 'aarch64')
 license=('GPL3')
-depends=('libadwaita' 'gst-plugins-bad-libs')
+depends=('gst-plugins-bad-libs' 'libadwaita')
 makedepends=('cargo' 'git' 'meson')
 checkdepends=('appstream-glib')
 source=("git+$url.git#tag=v$pkgver")
