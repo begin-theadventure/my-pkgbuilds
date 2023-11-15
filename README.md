@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-139 packages found.
+140 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -112,6 +112,8 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 [viper-sh](https://github.com/0neGal/viper-sh): https://aur.archlinux.org/packages/viper-sh
 
 [weather](https://github.com/amit9838/weather)-gtk4: https://aur.archlinux.org/packages/weather-gtk4
+
+[wildcard](https://gitlab.gnome.org/World/Wildcard): https://aur.archlinux.org/packages/wildcard
 </details>
 
 
