@@ -1,0 +1,18 @@
+pkgbase = kana
+	pkgdesc = Learn Japanese characters
+	pkgver = 1.2
+	pkgrel = 1
+	url = https://gitlab.gnome.org/fkinoshita/kana
+	arch = x86_64
+	arch = aarch64
+	license = GPL3
+	checkdepends = appstream-glib
+	makedepends = cargo
+	makedepends = git
+	makedepends = meson
+	depends = libadwaita
+	depends = gst-plugins-bad-libs
+	source = git+https://gitlab.gnome.org/fkinoshita/kana.git#tag=v1.2
+	sha256sums = SKIP
+
+pkgname = kana
