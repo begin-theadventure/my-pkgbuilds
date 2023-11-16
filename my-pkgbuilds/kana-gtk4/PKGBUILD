@@ -2,7 +2,7 @@
 
 pkgname=kana-gtk4
 pkgver=1.2
-pkgrel=1
+pkgrel=2
 pkgdesc="Learn Japanese characters"
 url="https://gitlab.gnome.org/fkinoshita/kana"
 arch=('x86_64' 'aarch64')
@@ -33,4 +33,6 @@ check() {
 
 package() {
   meson install -C build --no-rebuild --destdir "$pkgdir"
+  sed -i -E "s|Exec=kana|Exec=$pkgname|g" "$pkgdir/usr/share/applications/com.felipekinoshita.Kana.desktop"
+  mv "$pkgdir/usr/bin/kana" "$pkgdir/usr/bin/$pkgname"
 }
