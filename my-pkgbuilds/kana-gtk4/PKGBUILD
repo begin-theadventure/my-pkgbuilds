@@ -1,6 +1,6 @@
 # Maintainer: begin-theadventure <begin-thecontact.ncncb at dralias dot com>
 
-pkgname=kana
+pkgname=kana-gtk4
 pkgver=1.2
 pkgrel=1
 pkgdesc="Learn Japanese characters"
