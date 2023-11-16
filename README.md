@@ -145,6 +145,8 @@ deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-bin: https://aur
 
 [feeddeck](https://github.com/feeddeck/feeddeck)-bin: https://aur.archlinux.org/packages/feeddeck-bin
 
+fingrom-bin: https://aur.archlinux.org/packages/fingrom-bin
+
 firefox-extension-[return-youtube-dislike](https://addons.mozilla.org/addon/return-youtube-dislikes)-bin: https://aur.archlinux.org/packages/firefox-extension-return-youtube-dislike-bin
 
 firefox-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xdm-browser-monitor-v8)-bin: https://aur.archlinux.org/packages/firefox-extension-xdman8-browser-monitor-bin
@@ -283,8 +285,6 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 **<details><summary> Bin packages </summary>**
 
 [application-inspector](https://github.com/microsoft/ApplicationInspector)-bin: https://aur.archlinux.org/packages/application-inspector-bin
-
-[ghc-raspbian](https://archive.raspbian.org/raspbian/pool/main/g/ghc)-bin: https://aur.archlinux.org/packages/ghc-raspbian-bin
 
 [image-optimizer](https://github.com/gijsgoudzwaard/image-optimizer)-bin: https://aur.archlinux.org/packages/image-optimizer-bin
 
