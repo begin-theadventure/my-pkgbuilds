@@ -1,1 +1,1 @@
-Not on the AUR.
+Not in the AUR.
