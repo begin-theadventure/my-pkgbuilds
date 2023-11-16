@@ -1,4 +1,4 @@
-pkgbase = kana
+pkgbase = kana-gtk4
 	pkgdesc = Learn Japanese characters
 	pkgver = 1.2
 	pkgrel = 1
@@ -15,4 +15,4 @@ pkgbase = kana
 	source = git+https://gitlab.gnome.org/fkinoshita/kana.git#tag=v1.2
 	sha256sums = SKIP
 
-pkgname = kana
+pkgname = kana-gtk4
