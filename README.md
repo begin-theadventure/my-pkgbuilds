@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-140 packages found.
+144 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -227,6 +227,8 @@ librewolf-extension-[xdman8-browser-monitor](https://addons.mozilla.org/addon/xd
 
 deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur.archlinux.org/packages/deadbeef-plugin-jack-git
 
+[kana](https://gitlab.gnome.org/fkinoshita/kana)-gtk4-git: https://aur.archlinux.org/packages/kana-gtk4-git
+
 [linuxwave](https://github.com/orhun/linuxwave)-git: https://aur.archlinux.org/packages/linuxwave-git
 
 [syngestures](https://github.com/mqudsi/syngesture)-git: https://aur.archlinux.org/packages/syngestures-git
@@ -246,7 +248,11 @@ deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur
 
 **<details><summary> Standard packages </summary>**
 
+[countdown](https://github.com/lainsce/countdown): https://aur.archlinux.org/packages/countdown
+
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
+
+[gadmin-rsync](https://web.archive.org/web/20180720061609/http://dalalven.dtdns.net:80/linux/gadmintools-webpage): https://aur.archlinux.org/packages/gadmin-rsync
 
 [gimp-brushbox](https://deviantart.com/grindgod/art/The-Gimp-TextureBox-385558228): https://aur.archlinux.org/packages/gimp-brushbox
 
@@ -283,6 +289,8 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 
 
 **<details><summary> Bin packages </summary>**
+
+[emulsion-bin](https://github.com/ArturKovacs/emulsion): https://aur.archlinux.org/packages/emulsion-bin
 
 [application-inspector](https://github.com/microsoft/ApplicationInspector)-bin: https://aur.archlinux.org/packages/application-inspector-bin
 
