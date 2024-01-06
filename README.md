@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-144 packages found.
+151 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -41,11 +41,15 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 [gomoku](https://github.com/alexkdeveloper/gomoku): https://aur.archlinux.org/packages/gomoku
 
+[gstreamer-svt-av1](https://gitlab.com/AOMediaCodec/SVT-AV1/-/tree/master/gstreamer-plugin): https://aur.archlinux.org/packages/gstreamer-svt-av1
+
 [guessnumber](https://github.com/alexkdeveloper/guessnumber): https://aur.archlinux.org/packages/guessnumber
 
 [hamonikr-onboard-layout-ko](https://github.com/hamonikr/hamonikr-onboard-layout-ko): https://aur.archlinux.org/packages/hamonikr-onboard-layout-ko
 
 [inspector](https://github.com/Nokse22/inspector): https://aur.archlinux.org/packages/inspector
+
+[killwine](https://github.com/begin-theadventure/killwine): https://aur.archlinux.org/packages/killwine
 
 [kleaner](https://github.com/najepaliya/kleaner): https://aur.archlinux.org/packages/kleaner
 
@@ -139,13 +143,15 @@ My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&Se
 
 deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-bin: https://aur.archlinux.org/packages/deadbeef-plugin-jack-bin
 
+[device-flasher](https://gitlab.com/CalyxOS/device-flasher)-bin: https://aur.archlinux.org/packages/device-flasher-bin
+
 [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard)-bin: https://aur.archlinux.org/packages/emoji-keyboard-bin
 
 [emojimart](https://github.com/vemonet/EmojiMart)-bin: https://aur.archlinux.org/packages/emojimart-bin
 
 [feeddeck](https://github.com/feeddeck/feeddeck)-bin: https://aur.archlinux.org/packages/feeddeck-bin
 
-fingrom-bin: https://aur.archlinux.org/packages/fingrom-bin
+[fingrom](https://github.com/lyskouski/app-finance)-bin: https://aur.archlinux.org/packages/fingrom-bin
 
 firefox-extension-[return-youtube-dislike](https://addons.mozilla.org/addon/return-youtube-dislikes)-bin: https://aur.archlinux.org/packages/firefox-extension-return-youtube-dislike-bin
 
@@ -250,6 +256,8 @@ deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur
 
 [countdown](https://github.com/lainsce/countdown): https://aur.archlinux.org/packages/countdown
 
+[diskmonitor](https://github.com/papylhomme/diskmonitor): https://aur.archlinux.org/packages/diskmonitor
+
 [extract-xiso](https://github.com/XboxDev/extract-xiso): https://aur.archlinux.org/packages/extract-xiso
 
 [gadmin-rsync](https://web.archive.org/web/20180720061609/http://dalalven.dtdns.net:80/linux/gadmintools-webpage): https://aur.archlinux.org/packages/gadmin-rsync
@@ -296,6 +304,8 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 
 [image-optimizer](https://github.com/gijsgoudzwaard/image-optimizer)-bin: https://aur.archlinux.org/packages/image-optimizer-bin
 
+[liketaskmanager](https://github.com/rejuce/LikeTaskManager)-bin: https://aur.archlinux.org/packages/liketaskmanager-bin
+
 [listmonk](https://github.com/knadh/listmonk)-bin: https://aur.archlinux.org/packages/listmonk-bin
 
 [notesnook](https://github.com/streetwriters/notesnook)-bin: https://aur.archlinux.org/packages/notesnook-bin
@@ -306,6 +316,8 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 
 **<details><summary> AppImage packages </summary>**
 
+[emoji-keyboard](emoji-keyboard-appimage)-appimage: https://aur.archlinux.org/packages/emoji-keyboard-appimage
+
 [hotspot](https://github.com/KDAB/hotspot)-appimage: https://aur.archlinux.org/packages/hotspot-appimage
 </details>
 
@@ -313,6 +325,8 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 **<details><summary> Git packages </summary>**
 
 [curtail](https://github.com/Huluti/Curtail)-git: https://aur.archlinux.org/packages/curtail-git
+
+[diskmonitor](https://github.com/papylhomme/diskmonitor)-git: https://aur.archlinux.org/packages/diskmonitor-git
 
 [image-optimizer](https://github.com/gijsgoudzwaard/image-optimizer)-git: https://aur.archlinux.org/packages/image-optimizer-git
 
