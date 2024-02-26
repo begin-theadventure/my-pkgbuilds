@@ -246,6 +246,8 @@ deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur
 [weather](https://github.com/alexkdeveloper/weather)-vala-git: https://aur.archlinux.org/packages/weather-vala-git
 
 [yadp](https://github.com/Nhoya/YADP)-git: https://aur.archlinux.org/packages/yadp-git
+
+[you-have-mail-cli-git](https://github.com/LeanderBB/you-have-mail-cli): https://aur.archlinux.org/packages/you-have-mail-cli-git
 </details>
 
 
@@ -301,8 +303,6 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 [emulsion-bin](https://github.com/ArturKovacs/emulsion): https://aur.archlinux.org/packages/emulsion-bin
 
 [application-inspector](https://github.com/microsoft/ApplicationInspector)-bin: https://aur.archlinux.org/packages/application-inspector-bin
-
-[image-optimizer](https://github.com/gijsgoudzwaard/image-optimizer)-bin: https://aur.archlinux.org/packages/image-optimizer-bin
 
 [liketaskmanager](https://github.com/rejuce/LikeTaskManager)-bin: https://aur.archlinux.org/packages/liketaskmanager-bin
 
