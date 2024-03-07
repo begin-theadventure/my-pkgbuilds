@@ -1,7 +1,7 @@
 # my-pkgbuilds
 My PKGBUILDs [packages](https://aur.archlinux.org/packages?K=begin-theadventu&SeB=m) for the Arch User Repository (AUR).
 
-151 packages found.
+153 packages found.
 
 **<details><summary> Standard packages </summary>**
 
@@ -237,6 +237,8 @@ deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur
 
 [linuxwave](https://github.com/orhun/linuxwave)-git: https://aur.archlinux.org/packages/linuxwave-git
 
+[redshiftqt-git](https://github.com/loathingKernel/RedShiftQt): https://aur.archlinux.org/packages/redshiftqt-git
+
 [syngestures](https://github.com/mqudsi/syngesture)-git: https://aur.archlinux.org/packages/syngestures-git
 
 [telegraph](https://github.com/fkinoshita/Telegraph)-git: https://aur.archlinux.org/packages/telegraph-git
@@ -249,6 +251,8 @@ deadbeef-plugin-[jack](https://github.com/DeaDBeeF-Player/jack)-git: https://aur
 
 [you-have-mail-cli-git](https://github.com/LeanderBB/you-have-mail-cli): https://aur.archlinux.org/packages/you-have-mail-cli-git
 </details>
+
+
 
 
 **Adopted:**
@@ -294,13 +298,15 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 
 [syngestures](https://github.com/mqudsi/syngesture): https://aur.archlinux.org/packages/syngestures
 
-[vimcdoc](http://vimcdoc.sf.net) : https://aur.archlinux.org/packages/vimcdoc
+[vimcdoc](http://vimcdoc.sf.net): https://aur.archlinux.org/packages/vimcdoc
 </details>
 
 
 **<details><summary> Bin packages </summary>**
 
 [emulsion-bin](https://github.com/ArturKovacs/emulsion): https://aur.archlinux.org/packages/emulsion-bin
+
+[hotspotshield](https://www.hotspotshield.com/): https://aur.archlinux.org/packages/hotspotshield-bin
 
 [application-inspector](https://github.com/microsoft/ApplicationInspector)-bin: https://aur.archlinux.org/packages/application-inspector-bin
 
@@ -334,3 +340,11 @@ python-[undervolt](https://github.com/georgewhewell/undervolt): https://aur.arch
 
 [upscaler](https://gitlab.gnome.org/World/Upscaler)-git: https://aur.archlinux.org/packages/upscaler-git
 </details>
+
+
+
+**<details><summary> Co-Maintainer </summary>**
+
+[coulr](https://github.com/Huluti/Coulr): https://aur.archlinux.org/packages/coulr
+
+[keyman-onboard](https://github.com/keymanapp/onboard-keyman): https://aur.archlinux.org/packages/keyman-onboard
