@@ -1,12 +1,11 @@
 pkgbase = otf-sans-forgetica
 	pkgdesc = Font scientifically designed to help you remember your study notes
 	pkgver = 1.0
-	pkgrel = 1
-	url = http://sansforgetica.rmit/
+	pkgrel = 2
+	url = https://web.archive.org/web/20200826080313/http://sansforgetica.rmit
 	arch = any
-	license = CCPL
-	makedepends = unzip
-	source = sans-forgetica.zip::https://sansforgetica.rmit.edu.au/Common/Zips/Sans%20Forgetica.zip
+	license = CC-BY-NC-3.0
+	source = https://web.archive.org/web/20200820002907/https://sansforgetica.rmit/Common/Zips/Sans%20Forgetica.zip
 	sha256sums = 972899e17ae7097c95a30661c882c696b6f17d73061da6632b8e976b3bf56f81
 
 pkgname = otf-sans-forgetica

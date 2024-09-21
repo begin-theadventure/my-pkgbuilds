@@ -1,24 +1,18 @@
-# Maintainer: Martin Minka <martin.minka@gmail.com>
+# Maintainer: begin-theadventure <begin-thecontact.ncncb at dralias dot com>
+# Contributor: Martin Minka <martin.minka@gmail.com>
 
-_fontname=sans-forgetica
-pkgname=otf-${_fontname}
+pkgname=otf-sans-forgetica
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Font scientifically designed to help you remember your study notes"
-url="http://sansforgetica.rmit/"
-arch=(any)
-license=(CCPL)
-source=("$_fontname.zip::https://sansforgetica.rmit.edu.au/Common/Zips/Sans%20Forgetica.zip")
+url="https://web.archive.org/web/20200826080313/http://sansforgetica.rmit"
+license=('CC-BY-NC-3.0')
+arch=('any')
+source=("https://web.archive.org/web/20200820002907/https://sansforgetica.rmit/Common/Zips/Sans%20Forgetica.zip")
 sha256sums=('972899e17ae7097c95a30661c882c696b6f17d73061da6632b8e976b3bf56f81')
-makedepends=('unzip')
 
 package() {
-  cd "${srcdir}"
-  unzip -qqo "${_fontname}.zip"
   cd "Sans Forgetica"
-
-  install -d "${pkgdir}/usr/share/fonts/OTF/"
-  install -m644 *.otf "${pkgdir}/usr/share/fonts/OTF/"
+  install -Dm644 "The story of Sans Forgetica.pdf" -t "$pkgdir/usr/share/doc/$pkgname"
+  install -Dm644 SansForgetica-Regular.otf -t "$pkgdir/usr/share/fonts/OTF"
 }
-
-# vim:set ts=2 sw=2 et:
